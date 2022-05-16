@@ -1,0 +1,14 @@
+Date: 2015-04-12
+Time: 9:00 PM MDT
+Seeing: I
+Transparency: 7
+Telescope: 254 mm f/4.92
+
+Objects: M40 and NGC4290
+Eyepiece: 30 mm w/2x Barlow (84x)
+
+I finally resolved the double star that is M40. It forms a right triangle in the field of view with NGC4290 and 70 Ursae Majoris:
+
+(drawing in original hand-written notes)
+
+NGC4290 was visible in my 10" scope. It was a very faint, fuzzy galaxy much smaller than any galaxy I've seen. I needed averted vision to view it. It seemed to be as large as 70 UMa in the field of view.

@@ -1,0 +1,106 @@
+Date: 2022-03-24
+Time: 8:40 PM
+Transparency: 7
+
+Tonight was the first night I used my new Stellarvue SVX127D doublet refractor on a Losmandy GM8 G mount. The diameter of the objective is 127 mm, and the focal length is 1016 mm (f/8).
+
+Object: M44
+Eyepiece: Pentax 40 mm (25.4x)
+
+The Beehive cluster was brilliant! I saw nearly the entire cluster in the field of view of this massive eyepiece.
+
+Object: M67
+
+Using the 40 mm eyepiece, this open cluster appeared small, but details were visible at the 25x magnification. Using a Pentax 12 mm eyepiece (84.66x), the cluster exhibited clear stars throughout. At 84x I detected a hint of "nebulosity" bit really this just turned out to be an overall brightness at the center of the cluster.
+
+Time: 8:52 PM
+
+Object: M81
+
+At 84x, I clearly saw a central brightness in this galaxy with an oblong, oval halo.
+
+Object: M82
+
+At 84x, this galaxy was ghostly, dim, and slender. At 25x, it was nicely positioned with M81 against the background stars in the same field of view.
+
+Object: M45
+
+At 25x, The Pleiades is absolutely beautiful with the sharp optics of this refractor telescope! I perceived nebulosity surrounding several stars in this open cluster.
+
+Time: 9:17 PM
+
+Object: M34
+
+At 25x, I saw in this open cluster an enclosing set of outer stars, almost hexagonal in appearance, surrounding the inner stars of the group. At 84x, arms of stars protrude from the center, almost spider-like.
+
+Object: M42 and M43
+
+At 84x, the four stars of the Trapezium are pinpoint and clear. Two other pinprick stars are visible at the "wide" end of the Trapezium in the enveloping cloud. Nearby, on the other side of the Trapezium, three stars form a nearly straight line.
+
+The nebula is brighter and more detailed than I've ever seen in my memory of viewing the object with my 254 mm reflector.
+
+A central star is clearly visible in M43.
+
+Object: M35
+
+At 84x, this open cluster has scattered stars throughout. Wondrous! The object fills the field of view.
+
+Object: M36
+
+At 84x, this open cluster is sparse, not dense, and nice.
+
+Object: M37
+
+At 84x, this open cluster has the appearance of widely spread sugar grains. I detected a prominent orange star at the center of the cluster.
+
+Time: 9:50 PM
+
+Object: M38
+
+At 84x, this open cluster in Auriga was sparse and scattered. There are comparatively few stars, and the cluster is somewhat dim compared to other open clusters.
+
+Object: M46
+
+At 84x, the main thing I noted about this object was the small, dim nebula at its outer edge. Upon investigation, I see that this nebula is the planetary nebula NGC 2438.
+
+Object: M47
+
+At 84x, this open cluster is characterized by bright stars that are few in number and scattered. At 25x, both M47 and M46 are a nice pairing in the same field of view. M46 is large compared to M47.
+
+Object: M51
+
+At 84x, this galaxy is dim, but the halos are visible. I detected a slight mottling in the main component, and two bright centers are visible.
+
+Object: NGC 457
+
+At 84x, the stars in this object twinkled a little due to being near the horizon with seeing probably II or III. The cluster was dim at this placement.
+
+Time: 10:45 PM
+
+Object: M1
+
+At 84x, the Crab Nebula is a dim oval best seen with averted vision.
+
+Object: M97
+
+At 84x, the Owl Nebula is a dim, circular cloud.
+
+Object: M3
+
+At 84x, this globular cluster is dense with a bright center. A few stars were resolved at the edge, but the globular generally has a fuzzy appearance.
+
+Object: M64
+
+At 84x, this galaxy has a bright center with averted vision, and it's almost as if an embedded star forms its center, which is actually a bit off center.
+
+Time: 11:00 PM
+
+Object: M104
+
+At 84x, the needle and bulge shapes that characterize the Sombrero Galaxy are apparent. Maybe I caught a glimpse of the prominent dark lane also. Tonight's view is better than the memory I have of viewing this object in my 254 mm reflector years ago, although tonight's view was indeed dim.
+
+At 25x, the galaxy was a small, fuzzy blob amid an interesting stellar neighborhood.
+
+I am very pleased with the Stellarvue SVX127D doublet refractor. The views are clear and crisp with stars being perfect in their appearance. The glass in this telescope was manufactured with a Strehl ratio of 0.991, which explains the magnificent views that are superior to the mirror in my 254 mm reflector. I definitely detect more contrast in the views, but the smaller aperture will prevent me from going as deep as I can with the reflector.
+
+The most wonderful convenience, however, is the Losmandy GM8 G mount with its GoTo capability. That is the only reason that I was able to see about 21 objects tonight. I spent no time hunting down objects via star hopping. While I'm glad I did that with by 254 mm Dobsonian reflector in the past to learn the sky, I suspect I will never want to return to manually pushing around a scope.

@@ -1,0 +1,59 @@
+Date: 2018-05-04
+Time: 9:20 - 9:35 PM
+Seeing: I
+Transparency: 7
+
+Using 7x50 binoculars, I saw these objects:
+
+Object: Melotte 111
+Const.: Com
+
+Wonderful, vast open cluster filling the 7.5 degree field of view (and more). "V" shape detected. Perhaps 50 bright stars
+
+Object: M44
+Const.: CnC
+
+Small and lovely!
+
+Object: Ring asterism at Polaris
+
+Now with the 254 mm Newtonian reflector:
+
+Object: M98
+
+Very dim, elongated, edge-on, small, and needle-like. Unimpressive at 84x. Worse at 139x.
+
+Object: M99
+
+At 84x, it is perhaps elliptical and seemingly face-on. A bright center is surrounded by a fuzzy halo. A brighter companion star is adjacent in the fiel of view, and it seems the star has a surrounding nebulosity.
+
+Object: M100
+
+At 84x, almost identical to M99 except with a more defined central region (almost star-like in the middle).
+
+Object: M88
+
+At 84x, about as dim as M99 but less round and more oval-shaped. Blah.
+
+Object: M91
+
+Faint and non-descript at 84x. I loathe these uninspiring galaxies.
+
+Time: 10:40 PM
+
+Object: M53
+
+This is a dense, medium-sized globular cluster with no resolved stars at 84x. At that magnification, its appearance is that of a textured sphere.
+
+At 139x, I can resolve some stars with averted visions. Interesting.
+
+Time: 10:50 PM
+Object: M68
+
+Also a dense, medium globular cluster, M68 may be slightly smaller and slightly dimmer than M53 at 139x. Averted visions resolves fewer stars, but what's neat is that this globular cluster appears in the center of a foreground star field. I'm sure the star field is unrelated to the globular cluster.
+
+Time: 11:15 PM - midnight
+
+Object: Jupiter
+
+Seeing was incredible this night as I was able to observe at 277x for 45 minutes without appreciable image degradation. Southern zones were clear and sharply defined at many times during the observing session. The southern temperate zone stood out with particular sharpness at times. I'm hoping to observe again before and after its opposition on May 8th.

@@ -1,0 +1,16 @@
+Date: 2015-03-28
+Time: 8:45 PM MDT
+Seeing: II (Antoniadi)
+Transparency: 6 (AAAA)
+Telescope: 254 mm f/4.92 Newtonian reflector
+
+Object: M40 (failed)
+Eyepiece: 30 mm (42x)
+
+In bright moonlight, I attempted to locate the double star that is M40. With my star chart, I believe I zeroed in on the target, but I mistakenly believed that I resolved the pair when I saw two stars at opposite ends of the field of view.
+
+This was likely much too great a separation, and I probably needed greater magnification to resolve the pair properly. I believe I failed, so I will try again.
+
+Based on this experience, I probably did not resolve Alcor and Mizar on 2015-03-25 like I thought given that I used a 30 mm eyepiece. I will try again.
+
+Despite having good skies, albeit bright due to the moon, I became suddenly very tired and stopped this observing session early.
