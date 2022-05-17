@@ -6,4 +6,4 @@ Messier 32, NGC 221
 
 => ../../sessions/2015/2015-03-20.gmi 2015-03-20 (failed attempt)
 
-=> ../index.gmi Messier Objects
+=> index.gmi Messier Objects

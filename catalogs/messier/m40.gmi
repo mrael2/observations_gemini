@@ -6,4 +6,4 @@ Messier 40, Winnecke 4
 
 => ../../sessions/2015/2015-03-28.gmi 2015-03-28 (failed attempt)
 
-=> ../index.gmi Messier Objects
+=> index.gmi Messier Objects

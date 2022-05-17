@@ -6,4 +6,4 @@ Messier 110, NGC 205
 
 => ../../sessions/2015/2015-03-20.gmi 2015-03-20
 
-=> ../index.gmi Messier Objects
+=> index.gmi Messier Objects
