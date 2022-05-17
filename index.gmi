@@ -1,5 +1,7 @@
-= Astronomical Observations
+# Astronomical Observations
 
 These are my visual astronomical observations with various telescopes over the years.
 
 => sessions/ All years
+
+=> catalogs/messier/ Messier Objects

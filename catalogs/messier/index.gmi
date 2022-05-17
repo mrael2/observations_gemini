@@ -1,0 +1,113 @@
+# Messier Objects Observed
+
+=> m1.gmi M1
+=> m2.gmi M2
+=> m3.gmi M3
+=> m4.gmi M4
+=> m5.gmi M5
+=> m6.gmi M6
+=> m7.gmi M7
+=> m8.gmi M8
+=> m9.gmi M9
+=> m10.gmi M10
+
+=> m11.gmi M11
+=> m12.gmi M12
+=> m13.gmi M13
+=> m14.gmi M14
+=> m15.gmi M15
+=> m16.gmi M16
+=> m17.gmi M17
+=> m18.gmi M18
+=> m19.gmi M19
+=> m20.gmi M20
+
+=> m21.gmi M21
+=> m22.gmi M22
+=> m23.gmi M23
+=> m24.gmi M24
+=> m25.gmi M25
+=> m26.gmi M26
+=> m27.gmi M27
+=> m28.gmi M28
+=> m29.gmi M29
+=> m30.gmi M30
+
+=> m31.gmi M31
+=> m32.gmi M32
+=> m33.gmi M33
+=> m34.gmi M34
+=> m35.gmi M35
+=> m36.gmi M36
+=> m37.gmi M37
+=> m38.gmi M38
+=> m39.gmi M39
+=> m40.gmi M40
+
+=> m41.gmi M41
+=> m42.gmi M42
+=> m43.gmi M43
+=> m44.gmi M44
+=> m45.gmi M45
+=> m46.gmi M46
+=> m47.gmi M47
+=> m48.gmi M48
+=> m49.gmi M49
+=> m50.gmi M50
+
+=> m51.gmi M51
+=> m52.gmi M52
+=> m53.gmi M53
+=> m54.gmi M54
+=> m55.gmi M55
+=> m56.gmi M56
+=> m57.gmi M57
+=> m58.gmi M58
+=> m59.gmi M59
+=> m60.gmi M60
+
+=> m61.gmi M61
+=> m62.gmi M62
+=> m63.gmi M63
+=> m64.gmi M64
+=> m65.gmi M65
+=> m66.gmi M66
+=> m67.gmi M67
+=> m68.gmi M68
+=> m69.gmi M69
+=> m70.gmi M70
+
+=> m71.gmi M71
+=> m72.gmi M72
+=> m73.gmi M73
+=> m74.gmi M74
+=> m75.gmi M75
+=> m76.gmi M76
+=> m77.gmi M77
+=> m78.gmi M78
+=> m79.gmi M79
+=> m80.gmi M80
+
+=> m91.gmi M91
+=> m92.gmi M92
+=> m93.gmi M93
+=> m94.gmi M94
+=> m95.gmi M95
+=> m96.gmi M96
+=> m97.gmi M97
+=> m98.gmi M98
+=> m99.gmi M99
+=> m100.gmi M100
+
+=> m101.gmi M101
+=> m102.gmi M102
+=> m103.gmi M103
+=> m104.gmi M104
+=> m105.gmi M105
+=> m106.gmi M106
+=> m107.gmi M107
+=> m108.gmi M108
+=> m109.gmi M109
+=> m110.gmi M110
+
+=> ../../ Astronomical Observations
