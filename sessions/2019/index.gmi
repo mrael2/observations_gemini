@@ -1,4 +1,4 @@
-= Astronomical Observation Sessions in 2019
+# Astronomical Observation Sessions in 2019
 
 => 2019-04-06.gmi 2019-04-06
 => 2019-04-16.gmi 2019-04-16

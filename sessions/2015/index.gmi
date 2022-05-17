@@ -1,4 +1,4 @@
-= Astronomical Observation Sessions in 2015
+# Astronomical Observation Sessions in 2015
 
 => 2015-03-20.gmi 2015-03-20
 => 2015-03-22.gmi 2015-03-22
