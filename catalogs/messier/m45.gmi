@@ -6,4 +6,4 @@ Messier 45, The Pleiades
 
 => ../../sessions/2015/2015-03-25.gmi 2015-03-25
 
-=> ../ Messier Objects
+=> ../index.gmi Messier Objects

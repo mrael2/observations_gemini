@@ -6,4 +6,4 @@ Messier 31, NGC 224, Andromeda Galaxy
 
 => ../../sessions/2015/2015-03-20.gmi 2015-03-20
 
-=> ../ Messier Objects
+=> ../index.gmi Messier Objects
