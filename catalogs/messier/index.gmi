@@ -88,6 +88,17 @@
 => m79.gmi M79
 => m80.gmi M80
 
+=> m81.gmi M81
+=> m82.gmi M82
+=> m83.gmi M83
+=> m84.gmi M84
+=> m85.gmi M85
+=> m86.gmi M86
+=> m87.gmi M87
+=> m88.gmi M88
+=> m89.gmi M89
+=> m90.gmi M90
+
 => m91.gmi M91
 => m92.gmi M92
 => m93.gmi M93
