@@ -1,5 +1,6 @@
 # Caldwell Objects Observed
 
 => c13.gmi C13
+=> c80.gmi C80
 
 => ../../ Astronomical Observations
