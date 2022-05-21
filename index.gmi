@@ -3,9 +3,7 @@
 These are my visual astronomical observations with various telescopes over the years.
 
 => sessions/ All years
-
 => catalogs/messier/ Messier Objects
-
 => catalogs/caldwell/ Caldwell Objects
-
 => catalogs/ngc/ NGC Objects
+=> planets/ Planets
