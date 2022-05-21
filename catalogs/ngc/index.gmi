@@ -1,0 +1,13 @@
+# NGC Objects Observed
+
+=> ngc3384.gmi NGC 3384
+=> ngc3389.gmi NGC 3389
+=> ngc3593.gmi NGC 3593
+=> ngc3628.gmi NGC 3628
+=> ngc4290.gmi NGC 4290
+=> ngc4387.gmi NGC 4387
+=> ngc4394.gmi NGC 4394
+=> ngc6144.gmi NGC 6144
+=> ngc7000.gmi NGC 7000
+
+=> ../../ Astronomical Observations
