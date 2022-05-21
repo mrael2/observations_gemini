@@ -6,4 +6,6 @@ These are my visual astronomical observations with various telescopes over the y
 => catalogs/messier/ Messier Objects
 => catalogs/caldwell/ Caldwell Objects
 => catalogs/ngc/ NGC Objects
+=> catalogs/ic/ IC Objects
 => planets/ Planets
+=> other/ Other
