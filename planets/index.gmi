@@ -1,0 +1,13 @@
+# Planets
+
+=> mercury.gmi Mercury
+=> venus.gmi Venus
+=> mars.gmi Mars
+=> jupiter.gmi Jupiter
+=> saturn.gmi Saturn
+=> uranus.gmi Uranus
+=> neptune.gmi Neptune
+
+## Navigation
+
+=> ../index.gmi Astronomical Observations
