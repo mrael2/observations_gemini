@@ -1,3 +1,5 @@
 # Astronomical Observation Sessions in 2017
 
 => 2017-04-15.gmi 2017-04-15
+
+=> ../ All Years
