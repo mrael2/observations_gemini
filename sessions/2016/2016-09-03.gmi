@@ -4,3 +4,14 @@ Seeing: I
 Transparency: 1 or 2
 
 This was the first time I could observe in over three months! Our summer has been overcast nearly every night. Clouds were heavy tonight, but I observed Mars, Saturn, and M3, which was lovely.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/mars.gmi Mars
+=> ../../planets/saturn.gmi Saturn
+=> ../../catalogs/messier/m3.gmi M3
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations

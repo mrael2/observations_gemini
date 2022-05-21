@@ -1,5 +1,6 @@
 # NGC Objects Observed
 
+=> ngc2158.gmi NGC 2158
 => ngc3384.gmi NGC 3384
 => ngc3389.gmi NGC 3389
 => ngc3593.gmi NGC 3593

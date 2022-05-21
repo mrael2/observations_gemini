@@ -8,3 +8,5 @@
 => ../sessions/2015/2015-07-25.gmi 2015-07-25
 => ../sessions/2015/2015-08-04.gmi 2015-08-04
 => ../sessions/2015/2015-08-05.gmi 2015-08-05
+
+=> index.gmi All Planets

@@ -1,3 +1,5 @@
 # Neptune
 
 => ../sessions/2015/2015-09-11.gmi 2015-09-11
+
+=> index.gmi All Planets

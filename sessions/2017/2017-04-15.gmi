@@ -26,3 +26,18 @@ Object: M35
 Const.: Gemini
 
 M35 is a stunning open cluster w/30mm and 2x Barlow (84x). Multiple dozens of stars are crisply seen. Using only the 30 mm, the cluster is nicely defined albeit slightly nebulous in appearance. Using the 30 mm, I also saw the two smaller open clusters near M35: NGC2158 and IC2157.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m1.gmi M1
+=> ../../catalogs/messier/m34.gmi M34
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../catalogs/messier/m78.gmi M78
+=> ../../catalogs/messier/m35.gmi M35
+=> ../../catalogs/ngc/ngc2158.gmi NGC 2158
+=> ../../catalogs/ic/ic2157.gmi IC 2157
+
+## Navigation
+
+=> index.gmi 2017 Observations
+=> ../../index.gmi Astronomical Observations

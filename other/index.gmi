@@ -1,0 +1,8 @@
+# Other Objects
+
+=> moon.gmi Moon
+=> zodiacal_light.gmi Zodiacal Light
+
+## Navigation
+
+=> ../ Astronomical Observations

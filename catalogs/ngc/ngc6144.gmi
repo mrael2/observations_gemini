@@ -1,3 +1,5 @@
 # NGC 6144
 
 => ../../sessions/2015/2015-08-04.gmi 2015-08-04
+
+=> index.gmi NGC

@@ -49,3 +49,17 @@ This was a great first observation of action with Jupiter's moons.
 Temperatures were very cold with long underwear and heavy gloves required (along with a warm hat).
 
 Sky and Telescope magazine gave me all the moon information.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../catalogs/messier/m42.gmi M42
+=> ../../catalogs/messier/m43.gmi M43
+=> ../../catalogs/messier/m81.gmi M81
+=> ../../catalogs/messier/m82.gmi M82
+=> ../../catalogs/messier/m51.gmi M51
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations

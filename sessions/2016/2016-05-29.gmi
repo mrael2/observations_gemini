@@ -6,3 +6,15 @@ Seeing was good, but transparency was quite bad at times due to heavy scattered 
 Objects: M13, M57, Mars, Jupiter
 
 cursory observations only
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m13.gmi M13
+=> ../../catalogs/messier/m57.gmi M57
+=> ../../planets/mars.gmi Mars
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations

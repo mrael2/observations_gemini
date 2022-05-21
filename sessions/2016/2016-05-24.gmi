@@ -9,6 +9,15 @@ Shortly after opposition, Mars may have been slightly bigger and brighter than a
 
 I may have seen significant cloud cover at the pole most inclined to Earth. At 139x, the view was no different than at 277x.
 
-I won't bother to viet Mars at its closest approach around May 30th. The planet is just not interesting enough for me to bother.
+I won't bother to view Mars at its closest approach around May 30th. The planet is just not interesting enough for me to bother.
 
 It does look nice in the sky when viewed with the naked eye without optical aid! It is very bright and reddish.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/mars.gmi Mars
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations

@@ -14,3 +14,12 @@ A distinct band of light -- tall and slightly left-leaning -- appeared on the we
 I look forward to more observations of this phenomenon, none likely to be written about, in the future. Very appealing.
 
 Also, I hope to begin new telescopic observations soon as the weather warms.
+
+## Objects referenced in the narrative above
+
+=> ../../other/zodiacal_light.gmi Zodiacal Light
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations

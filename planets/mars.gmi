@@ -1,0 +1,8 @@
+# Mars
+
+=> ../sessions/2016/2016-05-14.gmi 2016-05-14
+=> ../sessions/2016/2016-05-24.gmi 2016-05-24
+=> ../sessions/2016/2016-05-29.gmi 2016-05-29
+=> ../sessions/2016/2016-09-03.gmi 2016-09-03
+
+=> index.gmi All Planets

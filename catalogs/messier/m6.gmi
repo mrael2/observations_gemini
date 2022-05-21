@@ -1,0 +1,5 @@
+# Messier 6
+
+=> ../../sessions/2016/2016-09-04.gmi 2016-09-04
+
+=> index.gmi Messier Objects

@@ -28,3 +28,17 @@ Object: M21 in Sagittarius
 This open cluster at 84x has a nearly perfect circle of stars near its center. At 42x, the cluster appears much smaller, though about the same size as M20, which is in the same field of view. Nice.
 
 This was the first good observing night in all summer! Not a cloud in the sky. A great night after a long time without good skies.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m7.gmi M7
+=> ../../catalogs/messier/m6.gmi M6
+=> ../../catalogs/messier/m62.gmi M62
+=> ../../catalogs/messier/m19.gmi M19
+=> ../../catalogs/messier/m8.gmi M8
+=> ../../catalogs/messier/m21.gmi M21
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations

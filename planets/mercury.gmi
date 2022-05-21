@@ -1,3 +1,5 @@
 # Mercury
 
 => ../sessions/2015/2015-05-07.gmi 2015-05-07
+
+=> index.gmi All Planets

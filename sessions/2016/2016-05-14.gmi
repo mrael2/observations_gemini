@@ -3,7 +3,7 @@ Time: 2:15 AM - 3:15 AM
 Seeing: I or II
 Transparency: 7
 
-I saw the first quarter moon setting for probably the first time in my life given the very early morning hour. Rich and clear, its appearance at the western horizon was striking. Once it set, the Milky Way became sharply prominent.
+I saw the first quarter Moon setting for probably the first time in my life given the very early morning hour. Rich and clear, its appearance at the western horizon was striking. Once it set, the Milky Way became sharply prominent.
 
 Object: Mars in Scorpius
 
@@ -28,3 +28,16 @@ Objects: Saturn, M31, M51
 Saturn was magnificent at 139x with the Cassini division among the clearest I've seen. I saw some belt detail on the planet's surface as well.
 
 Again at 139x, M31 and M51 looked reasonable but perhaps dimmer due to my eyes losing some dark-adapatedness from the bright planets.
+
+## Objects referenced in the narrative above
+
+=> ../../other/moon.gmi Moon
+=> ../../planets/mars.gmi Mars
+=> ../../planets/saturn.gmi Saturn
+=> ../../catalogs/messier/m31.gmi M31
+=> ../../catalogs/messier/m51.gmi M51
+
+## Navigation
+
+=> index.gmi 2016 Observations
+=> ../../index.gmi Astronomical Observations
