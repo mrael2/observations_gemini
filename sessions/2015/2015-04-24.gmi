@@ -29,3 +29,19 @@ Constellation: Canes Venatici
 I actually wore an eye patch for an hour before observing M51 in hopes of seeing spiral arms. No such luck, especially since the moon was out. I did, however, glimpse more of a surrounding cloud than before. Dark sies are needed.
 
 Tonight I also viewed M81, M82, Jupiter, and Venus.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m37.gmi M37
+=> ../../catalogs/messier/m36.gmi M36
+=> ../../catalogs/messier/m38.gmi M38
+=> ../../catalogs/messier/m51.gmi M51
+=> ../../catalogs/messier/m81.gmi M81
+=> ../../catalogs/messier/m82.gmi M82
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../planets/venus.gmi Venus
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

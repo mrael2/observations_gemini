@@ -22,3 +22,15 @@ Oh, I also resolved the double stars Alcor and Mizar in Ursa Major as part of my
 Location: east of Antonito, behind my house.
 
 Temperature: -2 degrees C
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m101.gmi M101
+=> ../../catalogs/messier/M42.gmi M42
+=> ../../catalogs/messier/M43.gmi M43
+=> ../../catalogs/messier/M45.gmi M45
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

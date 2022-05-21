@@ -44,3 +44,22 @@ M90, Virgo 11:58 PM
 This was a good night with ten Messier objects found. All of them were galaxies in Virgo, and it seems like the intense proliferation of galaxies makes them too common to hold my interest in them over the long term. I can't wait to see some more globular clusters.
 
 The sky was starting to get cloudy near midnight. The temperature was pleasant, perhaps 10 degree C going down to maybe 5 degrees C. I wore a hat. I needed a coat for the last 45-60 minutes due to the cold, but no gloves were needed.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m61.gmi M61
+=> ../../catalogs/messier/m49.gmi M49
+=> ../../catalogs/messier/m60.gmi M60
+=> ../../catalogs/messier/m59.gmi M59
+=> ../../catalogs/messier/m58.gmi M58
+=> ../../catalogs/messier/m89.gmi M89
+=> ../../catalogs/messier/m87.gmi M87
+=> ../../catalogs/messier/m84.gmi M84
+=> ../../catalogs/messier/m86.gmi M86
+=> ../../catalogs/ngc/ngc4387.gmi NGC 4387
+=> ../../catalogs/messier/m90.gmi M90
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

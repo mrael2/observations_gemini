@@ -40,3 +40,16 @@ Cygnus
 This is a large open cluster requiring 42x to see in its entirety. There are about 20 bright stars spread widely across the field of view, and a small, tight pair marks the center of the asymmetrical shape. Yet I do detect a triangular shape to the cluster.
 
 Great night, done at 9:30 PM. Gloves needed. Cold! Autumn is here.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m56.gmi M56
+=> ../../catalogs/messier/m71.gmi M71
+=> ../../catalogs/messier/m27.gmi M27
+=> ../../catalogs/messier/m29.gmi M29
+=> ../../catalogs/messier/m39.gmi M39
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

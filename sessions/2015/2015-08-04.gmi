@@ -52,3 +52,18 @@ I realized later that I had a Moon filter on my 9 mm eyepiece, so that's why M80
 The Moon rose at 11:15 PM, but seeing was bad, about IV or III at best on the eastern horizon.
 
 This was a great night of observing!
+
+## Objects referenced in the narrative above
+
+=> ../../planets/venus.gmi Venus
+=> ../../catalogs/messier/m4.gmi M4
+=> ../../catalogs/ngc/ngc6144.gmi NGC 6144
+=> ../../catalogs/messier/m80.gmi M80
+=> ../../catalogs/messier/m32.gmi M32
+=> ../../catalogs/messier/m110.gmi M110
+=> ../../catalogs/messier/m31.gmi M31
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

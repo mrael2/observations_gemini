@@ -16,3 +16,12 @@ Sketches of M51 online made from scopes of similar aperture to mine show distinc
 For some reason, I have hope that I shall see the spiral arms of M51 some day, but it may require travel to a darker site, which I have not yet undertaken with my 10" Newtonian reflector.
 
 My observing adventures have only just begun.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m51.gmi M51
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

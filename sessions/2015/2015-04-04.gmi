@@ -24,3 +24,13 @@ The Moon disappeared completely in the lue sky near sunrise at 6:36 AM, which le
 It was a cold morning with temperatures below freezing.
 
 I also caught a glimpse of Saturn this morning. Rings were clear but small with 30 mm eyepiece.
+
+## Objects referenced in the narrative above
+
+=> ../../other/moon.gmi Moon
+=> ../../planets/saturn.gmi Saturn
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

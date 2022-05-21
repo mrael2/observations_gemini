@@ -18,3 +18,14 @@ Object: Comet Lovejoy (C/2014 Q2)
 Notes: Again I observed this comet in Cassiopeia to confirm its movement against the background stars. Indeed, the surrounding stars were quite different compared to two nights ago.
 
 Location: east of Antonito, CO
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m42.gmi M42
+=> ../../catalogs/messier/m43.gmi M43
+=> ../../comets/c2014q2.gmi Comet Lovejoy (C/2014 Q2)
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

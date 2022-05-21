@@ -14,3 +14,12 @@ This was likely much too great a separation, and I probably needed greater magni
 Based on this experience, I probably did not resolve Alcor and Mizar on 2015-03-25 like I thought given that I used a 30 mm eyepiece. I will try again.
 
 Despite having good skies, albeit bright due to the moon, I became suddenly very tired and stopped this observing session early.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m40.gmi M40 (failed attempt)
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

@@ -2,3 +2,12 @@ Date: 2015-08-05
 
 Venus at 138x was similar to yesterday.
 Seeing: III
+
+## Objects referenced in the narrative above
+
+=> ../../planets/venus.gmi Venus
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

@@ -39,3 +39,22 @@ Despite being dim, I could detect stars around the edge that spiked off into alm
 I viewed all this at 84x, but I might want to try more magnification next time.
 
 So many of tonight's sights were striking and brilliant, but I am beginning to imagine how much more magnificent these sights would be with greater aperture! The fever is starting to take hold.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m65.gmi M65
+=> ../../catalogs/messier/m66.gmi M66
+=> ../../catalogs/ngc/ngc3628.gmi NGC 3628
+=> ../../catalogs/ngc/ngc3593.gmi NGC 3593
+=> ../../catalogs/messier/m95.gmi M95
+=> ../../catalogs/messier/m96.gmi M96
+=> ../../catalogs/messier/m105.gmi M105
+=> ../../catalogs/ngc/ngc3384.gmi NGC 3384
+=> ../../catalogs/ngc/ngc3389.gmi NGC 3389
+=> ../../catalogs/messier/m104.gmi M104
+=> ../../catalogs/messier/m13.gmi M13
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

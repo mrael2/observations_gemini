@@ -24,3 +24,16 @@ Time: 10:37 PM MDT
 Object: Albireo
 
 At 42x, this double star was clearly separated, but the pair was quite close together.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/venus.gmi Venus
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../catalogs/messier/m64.gmi M64
+=> ../../catalogs/messier/m85.gmi M85
+=> ../../catalogs/ngc/ngc4394.gmi NGC 4394
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

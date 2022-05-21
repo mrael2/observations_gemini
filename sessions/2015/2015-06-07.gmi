@@ -37,3 +37,18 @@ Faint and fuzzy with two bright stars near its edge. 138x
 
 M51, Canes Venatici
 Nice spiral structure at 138x. Last object of the night at 11:07 PM.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m94.gmi M94
+=> ../../catalogs/messier/m63.gmi M63
+=> ../../catalogs/messier/m106.gmi M106
+=> ../../catalogs/messier/m13.gmi M13
+=> ../../catalogs/messier/m101.gmi M101
+=> ../../catalogs/messier/m109.gmi M109
+=> ../../catalogs/messier/m51.gmi M51
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

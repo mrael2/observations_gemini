@@ -46,3 +46,20 @@ Heavy dew by 10:30 - 11:00. Cold, gloves needed.
 Telescope and location typical:
 - 254 mm f/4.92 Newtonian reflector on Dobsonian mount
 - just outside my back door, north of my house. Near La Florida, which is ~5 miles ESE of Antonito, CO
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m48.gmi M48
+=> ../../catalogs/messier/m109.gmi M109
+=> ../../catalogs/messier/m57.gmi M57
+=> ../../catalogs/caldwell/c80.gmi Omega Centauri
+=> ../../catalogs/messier/m13.gmi M13
+=> ../../catalogs/messier/m101.gmi M101
+=> ../../catalogs/messier/m51.gmi M51
+=> ../../planets/saturn.gmi Saturn
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

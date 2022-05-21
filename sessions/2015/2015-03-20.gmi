@@ -17,3 +17,17 @@ Seeing was exceptional tonight at I (Antoniadi) with transparency 7 (AAAA).
 Dew formation by 10:00 was significant. Temperatures were not yet below freezing.
 
 I very much enjoyed my first observing session with the new 10" scope.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/venus.gmi Venus
+=> ../../comets/c2014q2.gmi Comet Lovejoy (C/2014 Q2)
+=> ../../catalogs/messier/m31.gmi M31
+=> ../../catalogs/messier/m32.gmi M32
+=> ../../catalogs/messier/m110.gmi M110
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

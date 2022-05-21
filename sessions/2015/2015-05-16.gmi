@@ -15,3 +15,15 @@ Eyepiece: 9 mm (138x)
 The bulk of my time tonight, perhaps a full 30-40 minutes, was spent observing M97, the Owl Nebula. Initially, as with my first observation weeks ago, I could not detect the dark "eyes" in the nebula. As the sky became darker, especially after 10:00 PM, I started to detect dark areas within the nebula. Averted vision was needed, and I found that moving the scope enhanced the view.
 
 This is evidence that dark skies are important! I'm glad to have seen this faint additional detail in M97 tonight. Lots of dew.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/saturn.gmi Saturn
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../planets/venus.gmi Venus
+=> ../../catalogs/messier/m97.gmi M97
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

@@ -3,3 +3,12 @@ Time: 9:05 PM MDT
 Seeing: III
 
 Venus displayed a lovely crescent of about 10% illuminated in twilight. 138x
+
+## Objects referenced in the narrative above
+
+=> ../../planets/venus.gmi Venus
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

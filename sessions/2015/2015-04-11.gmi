@@ -75,4 +75,18 @@ Pity I can't see more detail in some of the objects, but I'm happy with what I'm
 
 Throughout the night, a mouse was making quite a racket in my trash-filled burn barrel. I'm sure it smelled food from fast-food containers piled in the barrel. I lot the trash on fire after taking the scope back inside, but I suspect the mouse escaped upon sensing the heat, thought I neither saw nor heard the escape.
 
-Log entry for this session concluded at 2015-04-12 00:43. Latest I've stayed up in a while!s
+Log entry for this session concluded at 2015-04-12 00:43. Latest I've stayed up in a while!
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m101.gmi M101
+=> ../../catalogs/messier/m44.gmi M44
+=> ../../catalogs/messier/m67.gmi M67
+=> ../../catalogs/messier/m108.gmi M108
+=> ../../catalogs/messier/m97.gmi M97
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

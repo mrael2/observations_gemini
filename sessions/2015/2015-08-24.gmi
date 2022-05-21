@@ -19,3 +19,13 @@ Object: Saturn in Libra?
 Seeing: III
 
 At 277x and 138x, the Cassini Division is not visible due to poor seeing.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m10.gmi M10
+=> ../../planets/saturn.gmi Saturn
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

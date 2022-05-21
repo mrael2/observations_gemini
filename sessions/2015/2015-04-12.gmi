@@ -12,3 +12,13 @@ I finally resolved the double star that is M40. It forms a right triangle in the
 (drawing in original hand-written notes)
 
 NGC4290 was visible in my 10" scope. It was a very faint, fuzzy galaxy much smaller than any galaxy I've seen. I needed averted vision to view it. It seemed to be as large as 70 UMa in the field of view.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m40.gmi M40
+=> ../../catalogs/ngc/ngc4290.gmi NGC 4290
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

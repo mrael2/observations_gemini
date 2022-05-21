@@ -43,3 +43,18 @@ Dimmer than previous observation with dark lanes NOT apparent.
 Dew forming. 11:00 PM ending time. Tired.
 
 Tried but failed to find NGC7000 (North American Nebula)
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m28.gmi M28
+=> ../../catalogs/messier/m22.gmi M22
+=> ../../catalogs/messier/m8.gmi M8
+=> ../../catalogs/messier/m20.gmi M20
+=> ../../catalogs/caldwell/c13.gmi NGC 457
+=> ../../catalogs/messier/m31.gmi M31
+=> ../../catalogs/ngc/ngc7000.gmi NGC 7000 (failed attempt)
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

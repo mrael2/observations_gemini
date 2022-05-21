@@ -20,3 +20,13 @@ A bright star appeared very close to M82's edge, and two other stars nearby form
 Exceptional skies in Ursa Major were covered by 9:10 PM by clouds. Tonight's window of good observing was short.
 
 Temperature was above freezing, but I still used long johns and gloves with my hooded winter coat.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m81.gmi M81
+=> ../../catalogs/messier/m82.gmi M82
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

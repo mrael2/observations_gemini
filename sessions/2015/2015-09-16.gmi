@@ -47,3 +47,18 @@ Object: M13 in Hercules
 At 84x, M13 is magnificent as usual.
 
 A great night!
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m25.gmi M25
+=> ../../catalogs/messier/m18.gmi M18
+=> ../../catalogs/messier/m17.gmi M17
+=> ../../catalogs/messier/m16.gmi M16
+=> ../../catalogs/messier/m26.gmi M26
+=> ../../catalogs/messier/m11.gmi M11
+=> ../../catalogs/messier/m13.gmi M13
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

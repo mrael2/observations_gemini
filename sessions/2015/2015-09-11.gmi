@@ -56,3 +56,24 @@ M23 in Sagittarius is a nice open cluster, sparse, of about 50-100 stars.
 Uranus: very small blue disc at 277x!
 
 Neptune: smaller than Uranus at 277x but clearly a round blue disc. September 2015 Sky & Telescope magazine helped.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/messier/m12.gmi M12
+=> ../../catalogs/messier/m10.gmi M10
+=> ../../catalogs/messier/m14.gmi M14
+=> ../../catalogs/messier/m9.gmi M9
+=> ../../catalogs/messier/m107.gmi M107
+=> ../../catalogs/messier/m31.gmi M31
+=> ../../catalogs/messier/m22.gmi M22
+=> ../../catalogs/messier/m8.gmi M8
+=> ../../catalogs/messier/m20.gmi M20
+=> ../../catalogs/messier/m24.gmi M24
+=> ../../catalogs/messier/m23.gmi M23
+=> ../../planets/uranus.gmi Uranus
+=> ../../planets/neptune.gmi Neptune
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

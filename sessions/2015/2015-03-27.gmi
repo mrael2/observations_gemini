@@ -11,3 +11,14 @@ My sketch does not show all the stars that vere visible. Instead, I wanted to ca
 The temperature was above freezing, so I did not need gloves during observing and sketching. Winds were light initially but became calm.
 
 At the close of this night's observing session, I was drawn yet again to M42/M43 and Jupiter. All three were briefly viewed at 83x.
+
+## Objects referenced in the narrative above
+
+=> ../../catalogs/ngc/ngc457.gmi NGC 457
+=> ../../catalogs/messier/m42.gmi M42
+=> ../../catalogs/messier/m43.gmi M43
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations

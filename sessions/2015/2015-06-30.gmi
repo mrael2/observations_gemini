@@ -10,3 +10,13 @@ At 84x, both planets were in the field of view. Clouds prevented me from seeing 
 Venus had a very nice crescent shape. I'd estimate about 20-30% illuminated. The clouds were so heavy that I could not make out the two planets separately with the naked eye. At only ~0.33 degrees apart, I could only detect a fuzzy single bright light in the sky with the naked eye. The telescope gave the only good view of the planets separated by a discernible distance.
 
 The moon is 99% full. Temperature is a warm 23 degrees C.
+
+## Objects referenced in the narrative above
+
+=> ../../planets/venus.gmi Venus
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2015 Observations
+=> ../../index.gmi Astronomical Observations
