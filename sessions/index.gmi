@@ -1,6 +1,6 @@
 # Years of Astronomical Observations
 
-=> before_2015-03/index.gmi Before 2015-03
+=> before_2015-03/index.gmi Before 2015-03-20
 => 2015/index.gmi 2015
 => 2016/index.gmi 2016
 => 2017/index.gmi 2017
