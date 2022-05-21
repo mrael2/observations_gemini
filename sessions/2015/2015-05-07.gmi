@@ -64,7 +64,6 @@ All in all, this was a great night.
 => ../../catalogs/messier/m82.gmi M82
 => ../../catalogs/messier/m3.gmi M3
 => ../../planets/jupiter.gmi Jupiter
-=> ../../catalogs/messier/m81.gmi M81
 => ../../catalogs/messier/m44.gmi M44
 => ../../catalogs/messier/m51.gmi M51
 => ../../catalogs/caldwell/c80.gmi Omega Centauri

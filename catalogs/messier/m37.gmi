@@ -1,0 +1,7 @@
+# Messier 37
+
+## 2015
+
+=> ../../sessions/2015/2015-04-24.gmi 2015-04-24
+
+=> index.gmi Messier Objects

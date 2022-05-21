@@ -14,7 +14,7 @@ At the close of this night's observing session, I was drawn yet again to M42/M43
 
 ## Objects referenced in the narrative above
 
-=> ../../catalogs/ngc/ngc457.gmi NGC 457
+=> ../../catalogs/caldwell/c13.gmi NGC 457
 => ../../catalogs/messier/m42.gmi M42
 => ../../catalogs/messier/m43.gmi M43
 

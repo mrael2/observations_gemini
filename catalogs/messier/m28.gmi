@@ -1,0 +1,7 @@
+# Messier 28
+
+## 2015
+
+=> ../../sessions/2015/2015-08-08.gmi 2015-08-08
+
+=> index.gmi Messier Objects

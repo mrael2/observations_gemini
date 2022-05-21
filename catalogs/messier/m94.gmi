@@ -1,0 +1,7 @@
+# Messier 94
+
+## 2015
+
+=> ../../sessions/2015/2015-06-07.gmi 2015-06-07
+
+=> index.gmi Messier Objects

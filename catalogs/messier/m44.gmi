@@ -1,0 +1,8 @@
+# Messier 44
+
+## 2015
+
+=> ../../sessions/2015/2015-04-11.gmi 2015-04-11
+=> ../../sessions/2015/2015-05-07.gmi 2015-05-07
+
+=> index.gmi Messier Objects

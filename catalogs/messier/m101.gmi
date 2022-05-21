@@ -5,5 +5,8 @@ Messier 101, NGC 5457, Pinwheel Galaxy
 ## 2015
 
 => ../../sessions/2015/2015-03-25.gmi 2015-03-25
+=> ../../sessions/2015/2015-04-11.gmi 2015-04-11
+=> ../../sessions/2015/2015-05-19.gmi 2015-05-19
+=> ../../sessions/2015/2015-06-07.gmi 2015-06-07
 
 => index.gmi Messier Objects
