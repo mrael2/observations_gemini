@@ -12,3 +12,12 @@ Unfortunately, a planet-wide dust storm has been covering Mars for several weeks
 However, a polar ice cap was very prominent, and I'm glad I could see this unique feature of the Martian surface.
 
 I have been following the movement of Mars in the early mornings before sunrise for months now. Then as well as now, it has been a magnificent sight along the ecliptic (with the unaided eye).
+
+## Objects referenced in the notes above
+
+=> ../../planets/mars.gmi Mars
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

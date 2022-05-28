@@ -25,7 +25,7 @@ Very dim, elongated, edge-on, small, and needle-like. Unimpressive at 84x. Worse
 
 Object: M99
 
-At 84x, it is perhaps elliptical and seemingly face-on. A bright center is surrounded by a fuzzy halo. A brighter companion star is adjacent in the fiel of view, and it seems the star has a surrounding nebulosity.
+At 84x, it is perhaps elliptical and seemingly face-on. A bright center is surrounded by a fuzzy halo. A brighter companion star is adjacent in the field of view, and it seems the star has a surrounding nebulosity.
 
 Object: M100
 
@@ -45,7 +45,7 @@ Object: M53
 
 This is a dense, medium-sized globular cluster with no resolved stars at 84x. At that magnification, its appearance is that of a textured sphere.
 
-At 139x, I can resolve some stars with averted visions. Interesting.
+At 139x, I can resolve some stars with averted vision. Interesting.
 
 Time: 10:50 PM
 Object: M68
@@ -57,3 +57,22 @@ Time: 11:15 PM - midnight
 Object: Jupiter
 
 Seeing was incredible this night as I was able to observe at 277x for 45 minutes without appreciable image degradation. Southern zones were clear and sharply defined at many times during the observing session. The southern temperate zone stood out with particular sharpness at times. I'm hoping to observe again before and after its opposition on May 8th.
+
+## Objects referenced in the notes above
+
+=> ../../other/melotte111.gmi Melotte 111
+=> ../../catalogs/messier/m44.gmi M44
+=> ../../other/polaris_ring.gmi Polaris ring asterism
+=> ../../catalogs/messier/m98.gmi M98
+=> ../../catalogs/messier/m99.gmi M99
+=> ../../catalogs/messier/m100.gmi M100
+=> ../../catalogs/messier/m88.gmi M88
+=> ../../catalogs/messier/m91.gmi M91
+=> ../../catalogs/messier/m53.gmi M53
+=> ../../catalogs/messier/m68.gmi M68
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

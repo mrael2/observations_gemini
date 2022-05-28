@@ -44,3 +44,21 @@ The North American Nebula remains elusive and unobserved, but I got much closer 
 Object: Saturn and Jupiter
 
 Some of the worst planetary seeing I've ever encountered made these planets very blurry at 277x.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m83.gmi M83
+=> ../../catalogs/messier/m5.gmi M5
+=> ../../catalogs/caldwell/c80.gmi NGC 5139
+=> ../../catalogs/messier/m92.gmi M92
+=> ../../catalogs/messier/m13.gmi M13
+=> ../../catalogs/messier/m102.gmi M102
+=> ../../catalogs/messier/m101.gmi M101
+=> ../../catalogs/ngc/ngc7000.gmi NGC 7000 (failed attempt)
+=> ../../planets/saturn.gmi Saturn
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

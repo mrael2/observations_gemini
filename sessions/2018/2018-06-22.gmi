@@ -14,3 +14,16 @@ Ron and Virginia were also present after 9:30.
 We also attempted to view M4, but the Moon was too bright (past 1st quarter) to yield anything but a too-dim fuzziness.
 
 Mattias very much enjoyed the night. He loved using the Telrad and 8x50 finderscope to locate targets. I hope that next summer he can see much more under a moonless sky.
+
+## Objects referenced in the notes above
+
+=> ../../planets/venus.gmi Venus
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../other/moon.gmi Moon
+=> ../../planets/saturn.gmi Saturn
+=> ../../catalogs/messier/m4.gmi M4
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

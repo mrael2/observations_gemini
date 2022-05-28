@@ -12,3 +12,12 @@ By 9:25 PM, the smoke cleared and the GRS became prominent again. It appeared ce
 This viewing was indeed much clearer at 277x than my last recorded observation, and I hope to have improved seeing at some point in the future when the GRS is visible again.
 
 Off to bed at 10:30 PM as I have to work tomorrow.
+
+## Objects referenced in the notes above
+
+=> ../../planets/jupiter.gmi Jupiter
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

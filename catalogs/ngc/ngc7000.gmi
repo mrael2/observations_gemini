@@ -2,4 +2,6 @@
 
 => ../../sessions/2015/2015-08-08.gmi 2015-08-08 (failed attempt)
 
+=> ../../sessions/2018/2018-06-02.gmi 2018-06-02 (failed attempt)
+
 => index.gmi NGC
