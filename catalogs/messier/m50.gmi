@@ -1,0 +1,5 @@
+# Messier 50
+
+=> ../../sessions/2018/2018-03-17.gmi 2018-03-17
+
+=> index.gmi Messier Objects

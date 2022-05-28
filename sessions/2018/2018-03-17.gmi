@@ -62,3 +62,25 @@ Time: 10:15 PM
 M31 was quite fuzzy very low on the northwest horizon at 42x.
 
 M42 was spectacular at 84x. Great night after months of being away.
+
+## Objects referenced in the notes above
+
+=> ../../planets/venus.gmi Venus
+=> ../../planets/mercury.gmi Mercury
+=> ../../catalogs/messier/m41.gmi M41
+=> ../../catalogs/messier/m79.gmi M79
+=> ../../catalogs/messier/m50.gmi M50
+=> ../../catalogs/messier/m52.gmi M52
+=> ../../catalogs/ngc/ngc7635.gmi NGC 7635
+=> ../../catalogs/messier/m103.gmi M103
+=> ../../catalogs/caldwell/c13.gmi NGC 457
+=> ../../catalogs/ngc/ngc884.gmi NGC 884 (part of Double Cluster)
+=> ../../catalogs/ngc/ngc869.gmi NGC 869 (part of Double Cluster)
+=> ../../other/stock2.gmi Stock 2
+=> ../../catalogs/messier/m31.gmi M31
+=> ../../catalogs/messier/m42.gmi M42
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations
