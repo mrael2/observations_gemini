@@ -10,3 +10,13 @@ Alas, my search was in vain. After 40 minutes of scanning the sky below and to t
 Online resources show Mercury's phase at only 2% lit, and I am sure this is not enough to discern on such a small planet in the bright twilight so close to the Sun -- as it would neet to be to be only 2% lit.
 
 I will try again in the future to observe a thin crescent on Mercury, but it may be months or years before I am fully successful. What a great hunt it's been so far!
+
+## Objects referenced in the notes above
+
+=> ../../planets/mercury.gmi Mercury (failed attempt)
+=> ../../planets/venus.gmi Venus
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

@@ -1,6 +1,7 @@
 # Other Objects
 
 => moon.gmi Moon
+=> stock2.gmi Stock 2
 => zodiacal_light.gmi Zodiacal Light
 
 ## Navigation

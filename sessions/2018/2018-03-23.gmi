@@ -7,7 +7,7 @@ Object: Mercury
 
 I spotted Mercury at 7:42 PM lower than before in much brighter twilight. I decided to use a lower power than before to compensate for poor seeing so close to the western horizon, and sure enough I had better views at 84x with a clear waning crescent on the planet's surface.
 
-Online references say that the phase is less than 20% lit, but pool seeing suggested a phase of about 35-40%.
+Online references say that the phase is less than 20% lit, but poor seeing suggested a phase of about 35-40%.
 
 Seeing was much better than before in part due to my usage of the cooling fan on the Dobsonian's mirror. It's the first titme I ever used the fan -- nearly three years after buying the scope.
 
@@ -57,4 +57,24 @@ Even with the Moon close to 50% lit, the nebulosity of M42 was still quite strik
 
 Also, at 84x, there was clear nebulosity around the stars of the Pleiades (M45).
 
-The Moon itself had the terminator along a ragged and crusty edge that consisted of numerous craters and mountains. The contrast between the dark shadows and bright plains wel fascinating. After my interest in deep-sky objects diminishes (if ever), I will likely become obsessed with the details of the lunar surface. In the meantime, only 25 more Messier objects to go!
+The Moon itself had the terminator along a ragged and crusty edge that consisted of numerous craters and mountains. The contrast between the dark shadows and bright plains was fascinating. After my interest in deep-sky objects diminishes (if ever), I will likely become obsessed with the details of the lunar surface. In the meantime, only 25 more Messier objects to go!
+
+## Objects referenced in the notes above
+
+=> ../../planets/mercury.gmi Mercury
+=> ../../planets/venus.gmi Venus
+=> ../../catalogs/ngc/ngc2360.gmi NGC 2360
+=> ../../other/basel11a.gmi Basel 11A
+=> ../../catalogs/ngc/ngc2423.gmi NGC 2423
+=> ../../catalogs/messier/m47.gmi M47
+=> ../../catalogs/messier/m46.gmi M46
+=> ../../catalogs/ngc/ngc2438.gmi NGC 2438
+=> ../../catalogs/messier/m93.gmi M93
+=> ../../catalogs/messier/m42.gmi M42
+=> ../../catalogs/messier/m45.gmi M45
+=> ../../other/moon.gmi Moon
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

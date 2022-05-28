@@ -14,3 +14,13 @@ I took a photo, and there is more evidence of a phase in Mercury in the mildly t
 Today I had entertained the idea of getting a Maksutov-Cassegrain telescope so that I could view planets at higher magnifications and (presumably) greater clarity, but the mirror in that design may not have been any better this evening.
 
 I may want a refractor after all.
+
+## Objects referenced in the notes above
+
+=> ../../planets/mercury.gmi Mercury
+=> ../../planets/venus.gmi Venus
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations

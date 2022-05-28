@@ -24,3 +24,12 @@ Yet this viewing of M51 has had a profound effect on me. Clearly this is true be
 If this is the pinnacle of my observing, I am fine with that notion. I'm sure there are many more wonderful sights to behold, so I look forward to seeing more. But I am content to reach this summit of sorts and never ascend to a higher peak. And I guess I am saying this only with regards to the telescope itself. I have pushed my 10" f/4.92 Newtonian reflector to its limit, and it has showed me everything it is capable of showing me.
 
 As I write this at 6:26 AM, the Belt of Venus and, coincidentally, 14 mule deer appear out my west-facing window. Despite the intense cold accompanying these springtime nights and mornings, the sights surrounding me here in the San Luis Valley are all truly profound.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m51.gmi M51
+
+## Navigation
+
+=> index.gmi 2018 Observations
+=> ../../ Astronomical Observations
