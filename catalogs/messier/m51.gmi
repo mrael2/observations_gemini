@@ -13,4 +13,6 @@
 
 => ../../sessions/2018/2018-04-15.gmi 2018-04-15 (best ever)
 
+=> ../../sessions/2020/2020-05-24.gmi 2020-05-24
+
 => index.gmi Messier Objects

@@ -15,4 +15,6 @@
 
 => ../sessions/2019/2019-08-24.gmi 2019-08-24
 
+=> ../sessions/2020/2020-12-21.gmi 2020-12-21
+
 => index.gmi All Planets

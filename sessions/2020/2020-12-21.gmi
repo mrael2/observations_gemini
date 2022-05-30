@@ -6,3 +6,13 @@ Transparency: 7
 Object: Jupiter/Saturn conjunction
 
 On this cold, first day of winter, I took out the 10-inch Dobsonian to see the historic conjunction. Pristine skies gave good views at 84x, but the better view came at 139x. So amazing to see the planets and their moons so close together!
+
+## Objects referenced in the notes above
+
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../planets/saturn.gmi Saturn
+
+## Navigation
+
+=> index.gmi 2020 Observations
+=> ../../ Astronomical Observations

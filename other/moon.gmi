@@ -12,4 +12,6 @@
 => ../sessions/2019/2019-11-24.gmi 2019-11-24
 => ../sessions/2019/2019-11-25.gmi 2019-11-25
 
+=> ../sessions/2020/2020-05-24.gmi 2020-05-24
+
 => index.gmi Other Objects

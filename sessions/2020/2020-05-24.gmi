@@ -16,3 +16,19 @@ Time: 11:15 PM
 Object: M51 and M13
 
 Much time spent in vain looking for Comet SWAN. Two years since I saw C80 (NGC 5139). Partly cloudy and cold.
+
+## Objects referenced in the notes above
+
+=> ../../planets/venus.gmi Venus
+=> ../../other/moon.gmi Moon
+=> ../../planets/mercury.gmi Mercury
+=> ../../catalogs/caldwell/c80.gmi C80 (Omega Centauri)
+=> ../../catalogs/messier/m81.gmi M81
+=> ../../catalogs/messier/m82.gmi M82
+=> ../../catalogs/messier/m51.gmi M51
+=> ../../catalogs/messier/m13.gmi M13
+
+## Navigation
+
+=> index.gmi 2020 Observations
+=> ../../ Astronomical Observations
