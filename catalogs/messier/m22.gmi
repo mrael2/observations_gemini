@@ -5,4 +5,6 @@
 => ../../sessions/2015/2015-08-08.gmi 2015-08-08
 => ../../sessions/2015/2015-09-11.gmi 2015-09-11
 
+=> ../../sessions/2019/2019-08-24.gmi 2019-08-24
+
 => index.gmi Messier Objects

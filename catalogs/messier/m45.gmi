@@ -6,4 +6,6 @@ Messier 45, The Pleiades
 
 => ../../sessions/2018/2018-03-23.gmi 2018-03-23
 
+=> ../../sessions/2019/2019-04-06.gmi 2019-04-06
+
 => index.gmi Messier Objects

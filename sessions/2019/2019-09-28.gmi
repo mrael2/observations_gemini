@@ -6,3 +6,12 @@ Transparency: 7
 Object: M77
 
 This galaxy, the last Messier object I observed, has a core very much like a star. It is adjacent to a star of similar magnitude, but the galaxy only shows its dim halo well at 139x. At 42x, it is more like a star than a galaxy. Very small object of little interest. I am happy to have seen all of the Messier objects at long last!
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m77.gmi M77
+
+## Navigation
+
+=> index.gmi 2019 Observations
+=> ../../ Astronomical Observations

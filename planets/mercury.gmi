@@ -9,4 +9,8 @@
 => ../sessions/2018/2018-03-23.gmi 2018-03-23
 => ../sessions/2018/2018-03-27.gmi 2018-03-27 (failed attempt)
 
+=> ../sessions/2019/2019-04-16.gmi 2019-04-16
+=> ../sessions/2019/2019-11-24.gmi 2019-11-24
+=> ../sessions/2019/2019-11-25.gmi 2019-11-25
+
 => index.gmi All Planets

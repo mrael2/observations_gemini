@@ -8,7 +8,7 @@ This galaxy at 42x is a large, diaphanous cloud that is dim but at the same time
 
 At 84x, I was surprised and impressed to see clarity that was absent at 42x. A bright core is clearly seen, and a large outer spiral is apparent. Hints of internal spiral structure can be seen directly without the need to avert vision.
 
-At 139x, the view becomes dimmer, and the large spiral arm is at the outer edge of the field of view. 84x is the best magnification. I was pleasantly surprised with this galaxy, and I hope noe day I can see it when it is higher in the sky for what I suspect would be an even more impressive display.
+At 139x, the view becomes dimmer, and the large spiral arm is at the outer edge of the field of view. 84x is the best magnification. I was pleasantly surprised with this galaxy, and I hope one day I can see it when it is higher in the sky for what I suspect would be an even more impressive display.
 
 Time: 9:00 PM
 
@@ -23,3 +23,14 @@ Time: 9:35 PM
 Object: M74
 
 Exceedingly dim at both 42x and 84x, I might have characterized this galaxy as a small nebula instead of a galaxy if I hadn't been told about it in advance. It is not much more than a nearly transparent, cloud-like smudge.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m33.gmi M33
+=> ../../catalogs/messier/m76.gmi M76
+=> ../../catalogs/messier/m74.gmi M74
+
+## Navigation
+
+=> index.gmi 2019 Observations
+=> ../../ Astronomical Observations

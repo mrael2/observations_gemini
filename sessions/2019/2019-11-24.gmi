@@ -8,6 +8,7 @@ Even as the sun started to brighten the horizon, I looked to the southwest and s
 
 I observed from within my house on this cold autumn morning.
 
+```
                 Spica
                    .
 
@@ -16,3 +17,15 @@ I observed from within my house on this cold autumn morning.
   
   
   Mercury  .
+```
+
+## Objects referenced in the notes above
+
+=> ../../planets/mars.gmi Mars
+=> ../../planets/mercury.gmi Mercury
+=> ../../other/moon.gmi Moon
+
+## Navigation
+
+=> index.gmi 2019 Observations
+=> ../../ Astronomical Observations

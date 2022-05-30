@@ -45,3 +45,21 @@ I concluded the evening at 11:00 PM.
 It has been over four months since I last observed in April. May was cold and cloudy. June and July were wet and plagued with the worst mosquitoes I have ever seen in La Florida! Only in mid-August were they finally gone. This was the first weekend without a Moon that I was able to observe in the summer of 2019 in comfort.
 
 It was a very productive evening, and I hope to have more such evenings/nights in the next few months before winter.
+
+## Objects referenced in the notes above
+
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../planets/saturn.gmi Saturn
+=> ../../catalogs/messier/m54.gmi M54
+=> ../../catalogs/messier/m70.gmi M70
+=> ../../catalogs/messier/m69.gmi M69
+=> ../../catalogs/ngc/ngc6652.gmi NGC 6652
+=> ../../catalogs/messier/m55.gmi M55
+=> ../../catalogs/messier/m75.gmi M75
+=> ../../catalogs/messier/m30.gmi M30
+=> ../../catalogs/messier/m22.gmi M22
+
+## Navigation
+
+=> index.gmi 2019 Observations
+=> ../../ Astronomical Observations

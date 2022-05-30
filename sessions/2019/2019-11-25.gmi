@@ -6,3 +6,14 @@ Clouds obstructed the view for much of the morning, but I finally saw the thinne
 Earlier in the morning, I saw Mercury, Mars, and Spica again. The color contrast among these objects is strikingly beautiful with a prominent white, orange, and blue, respectively, appearing in my binocular view.
 
 As with everything in life, luck played a role in being able to see these sights today, and I hope to see much more again soon.
+
+## Objects referenced in the notes above
+
+=> ../../other/moon.gmi Moon
+=> ../../planets/mercury.gmi Mercury
+=> ../../planets/mars.gmi Mars
+
+## Navigation
+
+=> index.gmi 2019 Observations
+=> ../../ Astronomical Observations

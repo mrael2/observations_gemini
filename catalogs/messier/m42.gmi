@@ -14,4 +14,6 @@ Messier 42, NGC 1976, Orion Nebula
 => ../../sessions/2018/2018-03-21.gmi 2018-03-21
 => ../../sessions/2018/2018-03-23.gmi 2018-03-23
 
+=> ../../sessions/2019/2019-04-06.gmi 2019-04-06
+
 => index.gmi Messier Objects

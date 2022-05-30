@@ -1,0 +1,5 @@
+# Messier 30
+
+=> ../../sessions/2019/2019-08-24.gmi 2019-08-24
+
+=> index.gmi Messier Objects

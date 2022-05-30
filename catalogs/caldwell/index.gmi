@@ -1,6 +1,7 @@
 # Caldwell Objects Observed
 
 => c13.gmi C13
+=> c59.gmi C59 (Ghost of Jupiter)
 => c80.gmi C80
 
 => ../../ Astronomical Observations

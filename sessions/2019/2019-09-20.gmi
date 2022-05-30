@@ -21,3 +21,15 @@ Time: 9:50 PM
 Object: M73
 
 This pointless little four-star cluster does look like a Y-shaped rocket ship, but it was so hard to find, and it is small and unimpressive at 139x.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m15.gmi M15
+=> ../../catalogs/messier/m2.gmi M2
+=> ../../catalogs/messier/m72.gmi M72
+=> ../../catalogs/messier/m73.gmi M73
+
+## Navigation
+
+=> index.gmi 2019 Observations
+=> ../../ Astronomical Observations

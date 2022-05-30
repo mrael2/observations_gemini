@@ -7,4 +7,6 @@
 
 => ../../sessions/2018/2018-05-04.gmi 2018-05-04
 
+=> ../../sessions/2019/2019-04-06.gmi 2019-04-06
+
 => index.gmi Messier Objects
