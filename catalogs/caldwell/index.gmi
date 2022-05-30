@@ -1,16 +1,29 @@
 # Caldwell Objects Observed
 
+=> c4.gmi C4
 => c8.gmi C8
 => c10.gmi C10
 => c13.gmi C13
 => c14.gmi C14 (Double Cluster in Perseus)
+=> c25.gmi C25
 => c28.gmi C28
+=> c31.gmi C31
+=> c39.gmi C39
+=> c41.gmi C41
+=> c46.gmi C46
+=> c49.gmi C49
+=> c50.gmi C50
+=> c54.gmi C54
 => c55.gmi C55 (Saturn Nebula)
+=> c58.gmi C58
 => c59.gmi C59 (Ghost of Jupiter)
+=> c64.gmi C64
 => c66.gmi C66
 => c69.gmi C69
+=> c71.gmi C71
 => c75.gmi C75
 => c76.gmi C76
+=> c79.gmi C79
 => c80.gmi C80 (Omega Centauri)
 
 => ../../ Astronomical Observations
