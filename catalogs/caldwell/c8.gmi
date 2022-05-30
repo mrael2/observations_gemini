@@ -1,0 +1,5 @@
+# Caldwell 8
+
+=> ../../sessions/2021/2021-10-30.gmi 2021-10-30
+
+=> index.gmi Caldwell Objects

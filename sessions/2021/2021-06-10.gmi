@@ -6,3 +6,15 @@ Transparency: 7
 C76 was memorable.
 C69 was unimpressive.
 C66 and C75 need to be observed again to form an impression
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/caldwell/c76.gmi C76
+=> ../../catalogs/caldwell/c69.gmi C69
+=> ../../catalogs/caldwell/c66.gmi C66
+=> ../../catalogs/caldwell/c75.gmi C75
+
+## Navigation
+
+=> index.gmi 2021 Observations
+=> ../../ Astronomical Observations

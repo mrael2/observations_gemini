@@ -1,0 +1,5 @@
+# NGC 7142
+
+=> ../../sessions/2021/2021-12-04.gmi 2021-12-04 (failed attempt)
+
+=> index.gmi NGC

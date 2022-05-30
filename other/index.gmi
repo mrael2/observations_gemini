@@ -1,7 +1,11 @@
 # Other Objects
 
+=> basel11a.gmi Basel 11A
+=> melotte111.gmi Melotte 111
 => moon.gmi Moon
+=> polaris_ring.gmi Polaris Ring Asterism
 => stock2.gmi Stock 2
+=> trumpler1.gmi Trumpler 1
 => zodiacal_light.gmi Zodiacal Light
 
 ## Navigation

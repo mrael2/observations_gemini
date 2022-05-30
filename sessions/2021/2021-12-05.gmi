@@ -26,4 +26,17 @@ With 7x50 binoculars, I viewed Melotte 111, which is spectacular! It is visible 
 
 Also through binoculars I viewed M45 in the west, and I split Mizar and Alcor in Ursa Major.
 
-And although I have not eben recording the observations, I have been using the 7x50 binoculars to view Mars shortly after it rises each morning. I've done this for the past week as we've had clear morning skies for many days. The planet's red color is very pleasing!
+And although I have not been recording the observations, I have been using the 7x50 binoculars to view Mars shortly after it rises each morning. I've done this for the past week as we've had clear morning skies for many days. The planet's red color is very pleasing!
+
+## Objects referenced in the notes above
+
+=> ../../comets/c2021a1.gmi Comet Leonard (C/2021 A1)
+=> ../../other/zodiacal_light.gmi Zodiacal Light
+=> ../../other/melotte111.gmi Melotte 111
+=> ../../catalogs/messier/m45.gmi M45
+=> ../../planets/mars.gmi Mars
+
+## Navigation
+
+=> index.gmi 2021 Observations
+=> ../../ Astronomical Observations

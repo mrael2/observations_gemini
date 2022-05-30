@@ -1,7 +1,20 @@
 # NGC Objects Observed
 
-=> ngc869.gmi NGC 869
-=> ngc884.gmi NGC 884
+=> ngc129.gmi NGC 129
+
+=> ngc225.gmi NGC 225
+=> ngc281.gmi NGC 281
+
+=> ../../catalogs/caldwell/c8.gmi NGC 559 (C8)
+=> ../../catalogs/messier/m103.gmi NGC 581 (M103)
+
+=> ngc637.gmi NGC 637
+=> ngc654.gmi NGC 654
+=> ngc659.gmi NGC 659
+=> ../../catalogs/caldwell/c10.gmi NGC 663 (C10)
+
+=> ../../catalogs/caldwell/c14.gmi NGC 869 (Caldwell 14, part of Double Cluster)
+=> ../../catalogs/caldwell/c14.gmi NGC 884 (Caldwell 14, part of Double Cluster)
 
 => ngc2158.gmi NGC 2158
 => ngc2360.gmi NGC 2360
@@ -23,6 +36,13 @@
 => ngc6144.gmi NGC 6144
 
 => ngc7000.gmi NGC 7000 (North American Nebula)
+=> ../../catalogs/caldwell/c55.gmi NGC 7009 (The Saturn Nebula)
+=> ../../catalogs/caldwell/c4.gmi NGC 7023 (C4)
+=> ngc7129.gmi NGC 7129 (Little Pleiades)
+=> ngc7142.gmi NGC 7142
+=> ../../catalogs/caldwell/c28.gmi NGC 7521 (C28)
 => ngc7635.gmi NGC 7635
+=> ngc7790.gmi NGC 7790
+=> ngc7789.gmi NGC 7789
 
 => ../../ Astronomical Observations

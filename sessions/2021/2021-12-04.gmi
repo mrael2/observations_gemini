@@ -3,8 +3,18 @@ Time: 6:30 PM - 7:00 PM
 Seeing: I
 Transparency: 7
 
-NGC 7120 appeared as a set of three stars inside of a faint nebula. Two stars immediately adjacent to the nebulosity can be thought of as a handle to the stars within the nebula. Also known as the Little Pleiades, I can see the pattern, more or less, that is found in the Pleiades.
+NGC 7129 appeared as a set of three stars inside of a faint nebula. Two stars immediately adjacent to the nebulosity can be thought of as a handle to the stars within the nebula. Also known as the Little Pleiades, I can see the pattern, more or less, that is found in the Pleiades.
 
 Also known as O'Meara's Secret Deep 103, I marvel yet again that O'Meara can see in a five-inch refractor pretty much exactly what I see in my 10-inch reflector (based on his sketch in the book). I could not confirm nearby NGC 7142, an open cluster. A small article on NGC 7129 appeared in the Nov. 25th edition of the Taos News.
 
 I am surprised how warm this December night is (above freezing)!
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/ngc/ngc7129.gmi NGC 7129 (Little Pleiades)
+=> ../../catalogs/ngc/ngc7142.gmi NGC 7142 (failed attempt)
+
+## Navigation
+
+=> index.gmi 2021 Observations
+=> ../../ Astronomical Observations

@@ -1,7 +1,16 @@
 # Caldwell Objects Observed
 
+=> c8.gmi C8
+=> c10.gmi C10
 => c13.gmi C13
+=> c14.gmi C14 (Double Cluster in Perseus)
+=> c28.gmi C28
+=> c55.gmi C55 (Saturn Nebula)
 => c59.gmi C59 (Ghost of Jupiter)
-=> c80.gmi C80
+=> c66.gmi C66
+=> c69.gmi C69
+=> c75.gmi C75
+=> c76.gmi C76
+=> c80.gmi C80 (Omega Centauri)
 
 => ../../ Astronomical Observations

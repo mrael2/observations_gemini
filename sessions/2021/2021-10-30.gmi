@@ -33,3 +33,26 @@ Andromeda had a prominent dust lane visible at 84x, and its vast extent was nice
 I also caught three or four Taurid meteors tonight, the last of which was a long-lived, bright, and smoky fireball that was a fitting end to an absolutely great night of observing.
 
 Cold temperature but not bad.
+
+## Objects referenced in the notes above
+
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../planets/saturn.gmi Saturn
+=> ../../catalogs/ngc/ngc637.gmi NGC 637
+=> ../../catalogs/ngc/ngc654.gmi NGC 654
+=> ../../catalogs/caldwell/c8.gmi C8/NGC 559
+=> ../../catalogs/caldwell/c10.gmi C10/NGC 663
+=> ../../catalogs/messier/m103.gmi M103/NGC 581
+=> ../../other/trumpler1.gmi Trumpler 1
+=> ../../catalogs/ngc/ngc659.gmi NGC 659
+=> ../../catalogs/ngc/ngc129.gmi NGC 129
+=> ../../catalogs/ngc/ngc7790.gmi NGC 7790
+=> ../../catalogs/ngc/ngc7789.gmi NGC 7789
+=> ../../catalogs/messier/m45.gmi M45
+=> ../../catalogs/caldwell/c14.gmi C14 (Double Cluster)
+=> ../../catalogs/messier/m31.gmi M31
+
+## Navigation
+
+=> index.gmi 2021 Observations
+=> ../../ Astronomical Observations

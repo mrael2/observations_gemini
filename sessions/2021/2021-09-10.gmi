@@ -22,3 +22,16 @@ The appearance is mottled at 250x, and this magnification is probably best for d
 I really do want motorized tracking in the future despite the hassles that such a system entails.
 
 I would like to observe C55 again with a tracking mount.
+
+## Objects referenced in the notes above
+
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../planets/saturn.gmi Saturn
+=> ../../catalogs/messier/m31.gmi M31
+=> ../../catalogs/messier/m57.gmi M57
+=> ../../catalogs/caldwell/c55.gmi C55
+
+## Navigation
+
+=> index.gmi 2021 Observations
+=> ../../ Astronomical Observations

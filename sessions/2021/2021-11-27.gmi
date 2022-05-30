@@ -7,3 +7,12 @@ Object: NGC 7023 (C4)
 Caldwell 4 is a reflection nebula surrounding a star. At 84x, the glow around the star is perceptible, but at 139x there is detail in the nebulosity when using averted vision. It's not a large nebula. The target is of medium interest.
 
 The evening temperature became cold quite quickly, and I suspect that I will be pausing telescopic observations until the springtime.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/caldwell/c4.gmi NGC 7023 (C4)
+
+## Navigation
+
+=> index.gmi 2021 Observations
+=> ../../ Astronomical Observations
