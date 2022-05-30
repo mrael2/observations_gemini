@@ -104,3 +104,33 @@ At 25x, the galaxy was a small, fuzzy blob amid an interesting stellar neighborh
 I am very pleased with the Stellarvue SVX127D doublet refractor. The views are clear and crisp with stars being perfect in their appearance. The glass in this telescope was manufactured with a Strehl ratio of 0.991, which explains the magnificent views that are superior to the mirror in my 254 mm reflector. I definitely detect more contrast in the views, but the smaller aperture will prevent me from going as deep as I can with the reflector.
 
 The most wonderful convenience, however, is the Losmandy GM8 G mount with its GoTo capability. That is the only reason that I was able to see about 21 objects tonight. I spent no time hunting down objects via star hopping. While I'm glad I did that with by 254 mm Dobsonian reflector in the past to learn the sky, I suspect I will never want to return to manually pushing around a scope.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m44.gmi M44
+=> ../../catalogs/messier/m67.gmi M67
+=> ../../catalogs/messier/m81.gmi M81
+=> ../../catalogs/messier/m82.gmi M82
+=> ../../catalogs/messier/m45.gmi M45
+=> ../../catalogs/messier/m34.gmi M34
+=> ../../catalogs/messier/m42.gmi M42
+=> ../../catalogs/messier/m43.gmi M43
+=> ../../catalogs/messier/m35.gmi M35
+=> ../../catalogs/messier/m36.gmi M36
+=> ../../catalogs/messier/m37.gmi M37
+=> ../../catalogs/messier/m38.gmi M38
+=> ../../catalogs/messier/m46.gmi M46
+=> ../../catalogs/ngc/ngc2438.gmi NGC 2438
+=> ../../catalogs/messier/m47.gmi M47
+=> ../../catalogs/messier/m51.gmi M51
+=> ../../catalogs/caldwell/c13.gmi NGC 457 (C13)
+=> ../../catalogs/messier/m1.gmi M1
+=> ../../catalogs/messier/m97.gmi M97
+=> ../../catalogs/messier/m3.gmi M3
+=> ../../catalogs/messier/m64.gmi M64
+=> ../../catalogs/messier/m104.gmi M104
+
+## Navigation
+
+=> index.gmi 2022 Observations
+=> ../../ Astronomical Observations

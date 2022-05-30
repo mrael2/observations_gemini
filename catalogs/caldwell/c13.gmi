@@ -7,4 +7,6 @@ Caldwell 13, NGC 457
 
 => ../../sessions/2018/2018-03-17.gmi 2018-03-17
 
+=> ../../sessions/2022/2022-03-24.gmi 2022-03-24
+
 => index.gmi Caldwell Objects

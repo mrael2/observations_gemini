@@ -5,7 +5,6 @@ Transparency: 7
 C41
 40mm
 
-
 About 15 stars in a grouping that has a core symmetry. At three apexes, two stars appear, giving the triangle a hexagonal quality. Other stars branch off from the core forming "wings." I see a bat with an apex of two stars forming the eyes.
 
 8:43 PM
@@ -47,3 +46,23 @@ Nice open cluster of medium bright stars filling 50% of the field of view. Low o
 
 10:05 PM C79 12 mm
 Goto refused to locate
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/caldwell/c41.gmi C41
+=> ../../catalogs/caldwell/c64.gmi C64
+=> ../../catalogs/caldwell/c58.gmi C58
+=> ../../catalogs/caldwell/c54.gmi C54
+=> ../../catalogs/caldwell/c50.gmi C50
+=> ../../catalogs/caldwell/c49.gmi C49
+=> ../../catalogs/caldwell/c46.gmi C46
+=> ../../catalogs/caldwell/c39.gmi C39
+=> ../../catalogs/caldwell/c25.gmi C25
+=> ../../catalogs/caldwell/c31.gmi C31
+=> ../../catalogs/caldwell/c71.gmi C71
+=> ../../catalogs/caldwell/c79.gmi C79 (failed attempt)
+
+## Navigation
+
+=> index.gmi 2022 Observations
+=> ../../ Astronomical Observations

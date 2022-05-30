@@ -1,0 +1,5 @@
+# Caldwell 79
+
+=> ../../sessions/2022/2022-04-02.gmi 2022-04-02 (failed attempt)
+
+=> index.gmi Caldwell Objects

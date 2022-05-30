@@ -11,4 +11,6 @@ Messier 45, The Pleiades
 => ../../sessions/2021/2021-10-30.gmi 2021-10-30
 => ../../sessions/2021/2021-12-05.gmi 2021-12-05
 
+=> ../../sessions/2022/2022-03-24.gmi 2022-03-24
+
 => index.gmi Messier Objects

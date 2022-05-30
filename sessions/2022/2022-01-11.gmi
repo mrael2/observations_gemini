@@ -4,3 +4,12 @@ Time: 6:48 AM
 Venus is now visible as a morning star. I viewed it with 7x50 binoculars rising in the east to the north of Twin Peak (the north hill).
 
 The crescent is visible in binoculars. This apparition will last many months and is the same as seen in 1694 by the Spaniards who came to the SLV, crossing the Rio Grande.
+
+## Objects referenced in the notes above
+
+=> ../../planets/venus.gmi Venus
+
+## Navigation
+
+=> index.gmi 2022 Observations
+=> ../../ Astronomical Observations
