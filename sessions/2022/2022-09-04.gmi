@@ -1,0 +1,50 @@
+Date: 2022-09-04
+
+The Moon is one day past 1st quarter, 53% visible, so I'm not sure how well these objects will be seen.
+
+M13 12 mm 9:00 PM Transparency: 7
+
+With the Moon washing out the sky, M13 appears dim. The reduced aperture of my refractor likely also has a major influence on the object's appearance, but I do see some resolved stars in the cluster.
+
+C76 12 mm
+
+This open cluster is small with about a dozen bright stars apparent in the moonlight. Quite nice. Asymmetrical.
+
+Saturn 5 mm 9:25 PM Seeing II-III
+
+The Cassini Division could not be seen due to a roiling atmosphere, but my tracking mount allows for much more pleasing observations of the planet.
+
+Jupiter 5 mm 9:39 PM Seeing III
+
+Three moons around Jupiter were visible, but the planet wasn't very high above the eastern horizon, so one band was barely perceptible.
+
+C16 40 mm
+
+Not knowing in advance what type of object this is, I presume it is a large, vast open cluster. At 25x, the field of view is filled with a sparse scattering of medium-bright stars.
+
+NGC 457 40 mm
+
+This cluster is sharply defined in the wide field.
+
+Albireo 40 mm
+
+This double star is prominent even in the wide field, but color is not apparent.
+
+NGC 7789 40 mm 10:10 PM
+
+With the Moon as bright as it is (53%), I nearly thought this cluster to be invisible, but closer observation showed a faint white rose in the wide field. The Moon has really made many targets inaccessible tonight.
+
+## Objects referenced in the notes above
+
+=> ../../catalogs/messier/m13.gmi M13
+=> ../../catalogs/caldwell/c76.gmi C76
+=> ../../planets/saturn.gmi Saturn
+=> ../../planets/jupiter.gmi Jupiter
+=> ../../catalogs/caldwell/c16.gmi C16
+=> ../../catalogs/caldwell/c13.gmi NGC 457 (C13)
+=> ../../catalogs/ngc/ngc7789.gmi NGC 7789
+
+## Navigation
+
+=> index.gmi 2022 Observations
+=> ../../ Astronomical Observations
