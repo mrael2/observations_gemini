@@ -1,0 +1,17 @@
+Date: 2023-01-29
+Time: 6:55 PM MST
+
+With 7x50 binoculars, I saw Comet ZTF (C/2022 E3) as a faint blob in Camelopardalis near the Little Dipper.
+
+The moon was past 1st quarter (64%), so the sky was washed out, making it harder to identify the Little Dipper asterism, which served to guide me to the comet.
+
+Because of the extremely cold nighttime temperature, I spent only a couple of minutes observing the comet. With averted vision, it clearly stood out as a fuzzy object much larger than any star.
+
+## Objects referenced in the notes above
+
+=> ../../comets/c2022e3.gmi Comet ZTF (C/2022 E3)
+
+## Navigation
+
+=> index.gmi 2023 Observations
+=> ../../ Astronomical Observations
