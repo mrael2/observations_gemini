@@ -9,5 +9,6 @@
 => 2020/index.gmi 2020 (2 sessions)
 => 2021/index.gmi 2021 (7 sessions)
 => 2022/index.gmi 2022
+=> 2023/index.gmi 2023
 
 => ../index.gmi Astronomical Observations
