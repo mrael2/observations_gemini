@@ -1,6 +1,8 @@
 # Comets
 
 => c2014q2.gmi Comet Lovejoy (C/2014 Q2)
+=> c2021a1.gmi Comet Leonard (C/2021 A1)
+=> c2022e3.gmi Comet ZTF (C/2022 E3)
 
 ## Navigation
 
