@@ -8,4 +8,5 @@ These are my visual astronomical observations with various telescopes over the y
 => catalogs/ngc/ NGC Objects
 => catalogs/ic/ IC Objects
 => planets/ Planets
+=> comets/ Comets
 => other/ Other
