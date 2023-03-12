@@ -21,7 +21,7 @@
 => ngc2423.gmi NGC 2423
 => ngc2438.gmi NGC 2438
 
-=> ngc3242.gmi NGC 3242 (Caldwell 59, Ghost of Jupiter)
+=> ../../catalogs/caldwell/c59.gmi NGC 3242 (Caldwell 59, Ghost of Jupiter)
 => ngc3384.gmi NGC 3384
 => ngc3389.gmi NGC 3389
 => ngc3593.gmi NGC 3593
