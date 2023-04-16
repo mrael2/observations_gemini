@@ -9,4 +9,6 @@
 
 => ../../types/globular_cluster.gmi Globular Cluster
 
+## Navigation
+
 => index.gmi Messier Objects
