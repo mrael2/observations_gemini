@@ -32,6 +32,7 @@
 => ngc4394.gmi NGC 4394
 
 => ../../catalogs/caldwell/c80.gmi NGC 5139 (Caldwell 80, Omega Centauri)
+=> ngc5466.gmi NGC 5466 (O'Meara Secret Deep 68)
 
 => ngc6144.gmi NGC 6144
 

@@ -1,0 +1,7 @@
+# Object Types
+
+=> globular_cluster.gmi Globular Cluster
+
+# Navigation
+
+=> ../index.gmi Astronomical Observations

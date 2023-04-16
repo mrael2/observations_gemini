@@ -1,0 +1,67 @@
+Date: 2023-04-15
+Time: 8:55 PM MDT
+Seeing: I
+Transparency: 7
+Telescope: Stellarvue SVX127D 127mm f/8 refractor
+
+# Observations
+
+## Object: M42
+=> ../../catalogs/messier/m42.gmi M42
+At 84x (12mm Pentax), four stars of the Trapezium are pinpoint and sharply presented in a tight grouping. At 203x (5 mm Pentax), there are two stars visible with averted vision a distance away from the Trapezium. These are not the E and F stars that I originally guessed them to be. Instead, I'll have to re-observe and look for E and F much closer to the main four stars.
+
+## Object: Mars
+=> ../../planets/mars.gmi Mars
+8:50 PM
+The planet is small and orange with no detail seen at 84x.
+
+## Object: C74 (failed attempt)
+=> ../../catalogs/caldwell/c74.gmi C74
+9:20 PM
+I could not identify this planetary nebula. GoTo brought me to a region that did not match O'Meara's sketch in "Deep Sky Companions: The Caldwell Objects" on page 350, and a scan of the area was fruitless. At both 84x and 25x (40mm Pentax), there was no luck. O'Meara says on page 350 that even at his own observation at 72x with a 4-inch refractor, the planetary nebula doesn't appear to be much more than a 9th magnitude star. Maybe I'll seek this out with my 10-inch reflector some day.
+
+## Object: M44
+=> ../../catalogs/messier/m44.gmi M44
+9:35 PM
+At 25x, the Beehive Cluster is absolutely spectacular in the wide field view of the Pentax 40mm eyepiece. A definite favorite.
+
+## Object: M3
+=> ../../catalogs/messier/m3.gmi M3
+10:05 PM
+With the 127mm refractor at 84x, this globular cluster is decidedly dimmer than what I remember in the 254mm reflector. But with prolonged viewing and averted vision, individual stars around the cluster's outer edge become apparent. The center remains unresolved with averted vision, and direct vision presents just a circular gauzy appearance.
+
+## Object: M13
+=> ../../catalogs/messier/m13.gmi M13
+10:20 PM
+As expected, M13 is dimmer at 84x in the refractor than what I've seen in my 10-inch reflector, but the view in the refractor is still pleasing. Direct vision reveals some resolved stars at both the edges and the center, but averted vision does not greatly increase the number of resolved stars.
+
+## Object: C53
+=> ../../catalogs/caldwell/c53.gmi C53
+10:45 PM
+At 84x, this galaxy is quite dim but does exhibit a central bulge and an elongation with tapering edges. There's no point in using this refractor to view similar galaxies in the future.
+
+## Object: NGC 4147 (O'Meara SD 52)
+=> ../../catalogs/ngc/ngc4147.gmi NGC 4147
+10:50 PM
+At 84x, this globular cluster is astonishingly small and requires averted vision to see its outer halo, which seems well defined.
+
+## Object: NGC 5466
+=> ../../catalogs/ngc/ngc5466.gmi NGC 5466 (O'Meara Secret Deep 68)
+10:55 PM
+At 84x, this object pushes the limit of visibility. It is the dimmest of clouds. I'm not sure it can be seen in smaller apertures. Medium size.
+
+## Object: NGC 5634
+=> ../../catalogs/ngc/ngc5634.gmi NGC 5634 (O'Meara Secret Deep extra #17)
+11:03 PM
+At 84x, this globular cluster is small, dim, and requires averted vision to discern. It is immediately adjacent to a bright companion star, perhaps even enveloping the star at the cluster's edge.
+
+## Object: M53
+=> ../../catalogs/messier/m53.gmi M53
+11:15 PM
+This globular cluster appears medium-sized at 84x and is nicely isolated on a dark field. Direct vision shows a lovely scattering of stars in a consistent circle shape, and averted vision brings out the suggestion that some stars are on the verge of being resolved. Nice for its size. Using the 40mm Pentax eyepiece (25x), the globular cluster is prominently seen in its environment.
+
+
+# Navigation
+
+=> index.gmi 2023 Observations
+=> ../../ Astronomical Observations

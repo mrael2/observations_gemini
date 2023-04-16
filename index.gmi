@@ -10,3 +10,5 @@ These are my visual astronomical observations with various telescopes over the y
 => planets/ Planets
 => comets/ Comets
 => other/ Other
+
+=> types/ Object Types

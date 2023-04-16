@@ -11,4 +11,6 @@
 
 => ../../sessions/2022/2022-03-24.gmi 2022-03-24
 
+=> ../../sessions/2023/2023-04-15.gmi 2023-04-15
+
 => index.gmi Messier Objects
