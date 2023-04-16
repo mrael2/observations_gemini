@@ -2,6 +2,6 @@
 ## arranged by right ascension
 
 => ../catalogs/ngc/ngc4147.gmi 12h 10.1m - NGC 4147 (O'Meara SD52)
-=> ../catalogs/messier/m53.gmi 13h 12.9m - M13
+=> ../catalogs/messier/m53.gmi 13h 12.9m - M53
 => ../catalogs/ngc/ngc5466.gmi 14h 05.4m - NGC 5466 (O'Meara SD68)
 => ../catalogs/ngc/ngc5634.gmi 14h 29.6m - NGC 5634 (O'Meara SD extra #17)
