@@ -38,7 +38,7 @@
 => ngc6652.gmi NGC 6652
 => ngc6819.gmi NGC 6819
 
-=> ngc7000.gmi NGC 7000 (North American Nebula)
+=> ../../catalogs/caldwell/c20.gmi NGC 7000 (North American Nebula)
 => ../../catalogs/caldwell/c55.gmi NGC 7009 (The Saturn Nebula)
 => ../../catalogs/caldwell/c4.gmi NGC 7023 (C4)
 => ngc7129.gmi NGC 7129 (Little Pleiades)
