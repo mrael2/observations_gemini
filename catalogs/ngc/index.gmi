@@ -35,6 +35,8 @@
 => ngc5466.gmi NGC 5466 (O'Meara Secret Deep 68)
 
 => ngc6144.gmi NGC 6144
+=> ngc6652.gmi NGC 6652
+=> ngc6819.gmi NGC 6819
 
 => ngc7000.gmi NGC 7000 (North American Nebula)
 => ../../catalogs/caldwell/c55.gmi NGC 7009 (The Saturn Nebula)

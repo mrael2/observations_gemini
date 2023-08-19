@@ -1,7 +1,11 @@
-# NGC 7000
+# Caldwell 20
+
+Caldwell 20, NGC 7000
 
 => ../../sessions/2015/2015-08-08.gmi 2015-08-08 (failed attempt)
 
 => ../../sessions/2018/2018-06-02.gmi 2018-06-02 (failed attempt)
 
-=> index.gmi NGC
+=> ../../sessions/2023/2023-07-15.gmi 2023-07-15
+
+=> index.gmi Caldwell Objects

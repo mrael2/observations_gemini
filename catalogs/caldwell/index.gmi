@@ -5,12 +5,17 @@
 => c10.gmi C10
 => c13.gmi C13
 => c14.gmi C14 (Double Cluster in Perseus)
+=> c16.gmi C16
+=> c20.gmi C20
 => c25.gmi C25
 => c28.gmi C28
 => c31.gmi C31
+=> c37.gmi C37
 => c39.gmi C39
 => c41.gmi C41
+=> c42.gmi C42
 => c46.gmi C46
+=> c47.gmi C47
 => c49.gmi C49
 => c50.gmi C50
 => c53.gmi C53

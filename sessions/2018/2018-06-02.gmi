@@ -54,7 +54,7 @@ Some of the worst planetary seeing I've ever encountered made these planets very
 => ../../catalogs/messier/m13.gmi M13
 => ../../catalogs/messier/m102.gmi M102
 => ../../catalogs/messier/m101.gmi M101
-=> ../../catalogs/ngc/ngc7000.gmi NGC 7000 (failed attempt)
+=> ../../catalogs/caldwell/c20.gmi NGC 7000 (failed attempt)
 => ../../planets/saturn.gmi Saturn
 => ../../planets/jupiter.gmi Jupiter
 

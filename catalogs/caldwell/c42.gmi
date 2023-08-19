@@ -1,6 +1,5 @@
-# Caldwell 16
+# Caldwell 42
 
-=> ../../sessions/2022/2022-09-04.gmi 2022-09-04
 => ../../sessions/2023/2023-07-15.gmi 2023-07-15
 
 => index.gmi Caldwell Objects

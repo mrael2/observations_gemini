@@ -1,0 +1,46 @@
+Date: 2023-07-15
+Seeing: II
+Transparency: 7
+
+9:40 PM
+Albireo
+12 mm
+Nebulosity surrounds the blue and gold double with averted vision. Slight shimmering of the double suggests less than ideal seeing. Although there is a breeze that is also moving the telescope on the mount.
+
+=> ../../catalogs/caldwell/c42.gmi C42
+10:10 PM
+C42
+12 mm
+This globular cluster is exceedingly dim and almost imperceptible. With averted vision, a small, hazy sphere is barely perceived.
+
+=> ../../catalogs/caldwell/c47.gmi C47
+10:20 PM
+C47
+12 mm
+Clearly visible as a small, round cloud in close proximity to a brighter star. Using 5 mm eyepiece, the shape is no longer symmetrically round. It's almost rectangular-to-oblong.
+
+=> ../../catalogs/caldwell/c37.gmi C37
+10:33 PM
+C37
+12 mm
+This open cluster consists of about 25-30 bright and widely scattered stars that nearly fill the field of view. Perhaps the brightest star of the cluster is near the center. Very nice.
+
+(Reading more, the bright star is 20 Vulpeculae.)
+
+Using the Pentax 40 mm, the open cluster becomes a small part of a dazzling star field.
+
+=> ../../catalogs/caldwell/c20.gmi C20
+11:05 PM
+C20
+40 mm
+For the first time ever, I have seen the North American Nebula! The mirror image on the refractor clearly shows the nebula that is "Mexico" along with the adjacent dark area that is the Gulf of Mexico. The bright nearby star, Xi Cygni, is apparent. The nebula that would be the "USA" is not as apparent, but the dense star field in that region is quite a sight. All my prior attempts to view NGC 7000 had failed due to not having a wide enough field of view. I credit the SVX127D and the Pentax 40mm eyepiece for giving me the chance to view this nebula at last. I'll want to view this again to gain greater familiarity with the various, specific regions of the nebula and its outline.
+
+=> ../../catalogs/caldwell/c16.gmi C16
+11:23 PM
+C16
+Neither with the 40 mm nor the 12 mm is it apparent that this is an open cluster. 25-40 scattered stars are barely clustered together in a very asymmetric grouping shaped like a long, crooked parallelogram. Uninspiring despite the reasonably bright stars involved.
+
+=> ../../catalogs/ngc/ngc6819.gmi NGC 6819
+11:40 PM
+NGC 6819
+At 40 mm, the cluster could not be identified due to the dense surrounding star field. If I identified it properly at 12 mm, it consists of about 20 bright stars, the most prominent of which form an image that suggests outstretched arms at the top of a boxy body. Mildly interesting.

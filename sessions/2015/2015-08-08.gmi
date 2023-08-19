@@ -52,7 +52,7 @@ Tried but failed to find NGC7000 (North American Nebula)
 => ../../catalogs/messier/m20.gmi M20
 => ../../catalogs/caldwell/c13.gmi NGC 457
 => ../../catalogs/messier/m31.gmi M31
-=> ../../catalogs/ngc/ngc7000.gmi NGC 7000 (failed attempt)
+=> ../../catalogs/caldwell/c20.gmi NGC 7000 (failed attempt)
 
 ## Navigation
 
