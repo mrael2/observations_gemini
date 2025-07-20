@@ -1,0 +1,21 @@
+Date: 2025-06-21
+Seeing: I
+Transparency: 7
+
+=> ../../catalogs/messier/m13.gmi M13
+10:30 PM
+M13
+eyepieces: 30mm & 12mm
+
+=> ../../catalogs/messier/m4.gmi M4
+10:50 PM
+M4
+eyepieces: 30mm & 12mm
+
+=> ../../catalogs/caldwell/c80.gmi C80
+I spent most of the night searching for Omega Centauri and hoping that it would emerge from a low cloud bank that kept obsuring the horizon. Once the clouds cleared, however, I discovered that Omega Centauri is NOT visible at this time of the year due to being below the horizon.
+
+## Navigation
+
+=> index.gmi 2025 Observations
+=> ../../ Astronomical Observations

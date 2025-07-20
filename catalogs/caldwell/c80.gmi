@@ -9,4 +9,6 @@ Caldwell 80, NGC 5139, Omega Centauri
 
 => ../../sessions/2020/2020-05-24.gmi 2020-05-24
 
+=> ../../sessions/2025/2025-06-21.gmi 2025-06-21 (failed)
+
 => index.gmi Caldwell Objects
