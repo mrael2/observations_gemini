@@ -15,4 +15,6 @@
 
 => ../../sessions/2023/2023-04-15.gmi 2023-04-15
 
+=> ../../sessions/2025/2025-06-21.gmi 2025-06-21
+
 => index.gmi Messier Objects
