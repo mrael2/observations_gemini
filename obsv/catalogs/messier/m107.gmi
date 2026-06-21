@@ -1,7 +1,18 @@
 # Messier 107
 
-## 2015
+## Observations by date
 
 => ../../sessions/2015/2015-09-11.gmi 2015-09-11
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
+
+## Type
+
+=> ../../types/globular_cluster.gmi Globular Cluster
+
+## Constellation
+
+=> ../../constellations/ophiuchus.gmi Ophiuchus
+
+## Navigation
 
 => index.gmi Messier Objects

@@ -1,10 +1,12 @@
 # Messier 8
 
-## 2015
+## Observations by date
 
 => ../../sessions/2015/2015-08-08.gmi 2015-08-08
 => ../../sessions/2015/2015-09-11.gmi 2015-09-11
-
 => ../../sessions/2016/2016-09-04.gmi 2016-09-04
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
+
+## Navigation
 
 => index.gmi Messier Objects

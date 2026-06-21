@@ -1,7 +1,11 @@
-# NGC 7789
+# NGC 7789 (Caroline's Rose)
+
+## Observations by date
 
 => ../../sessions/2021/2021-10-30.gmi 2021-10-30
-
 => ../../sessions/2022/2022-09-04.gmi 2022-09-04
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
+
+## Navigation
 
 => index.gmi NGC

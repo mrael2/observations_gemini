@@ -1,5 +1,7 @@
 # Messier 51
 
+## Observations by date
+
 => ../../sessions/2015/2015-04-21.gmi 2015-04-21
 => ../../sessions/2015/2015-04-24.gmi 2015-04-24
 => ../../sessions/2015/2015-05-07.gmi 2015-05-07
@@ -14,5 +16,9 @@
 => ../../sessions/2020/2020-05-24.gmi 2020-05-24
 
 => ../../sessions/2022/2022-03-24.gmi 2022-03-24
+
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
+
+## Navigation
 
 => index.gmi Messier Objects

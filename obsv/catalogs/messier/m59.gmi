@@ -1,7 +1,10 @@
 # Messier 59
 
-## 2015
+## Observation by date
 
 => ../../sessions/2015/2015-06-19.gmi 2015-06-19
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
+
+## Navigation
 
 => index.gmi Messier Objects

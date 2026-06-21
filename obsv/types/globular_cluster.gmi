@@ -5,3 +5,9 @@
 => ../catalogs/messier/m53.gmi 13h 12.9m - M53
 => ../catalogs/ngc/ngc5466.gmi 14h 05.4m - NGC 5466 (O'Meara SD68)
 => ../catalogs/ngc/ngc5634.gmi 14h 29.6m - NGC 5634 (O'Meara SD extra #17)
+
+## Scorpius
+=> ../catalogs/messier/m4.gmi 16h 23.6m - M4
+
+## Ophiuchus
+=> ../catalogs/messier/m107.gmi 16h 32.5m - M107

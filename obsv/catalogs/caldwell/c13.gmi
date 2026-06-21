@@ -2,12 +2,15 @@
 
 Caldwell 13, NGC 457
 
+## Observations by date
+
 => ../../sessions/2015/2015-03-27.gmi 2015-03-27
 => ../../sessions/2015/2015-08-08.gmi 2015-08-08
-
 => ../../sessions/2018/2018-03-17.gmi 2018-03-17
-
 => ../../sessions/2022/2022-03-24.gmi 2022-03-24
 => ../../sessions/2022/2022-09-04.gmi 2022-09-04
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
+
+## Navigation
 
 => index.gmi Caldwell Objects

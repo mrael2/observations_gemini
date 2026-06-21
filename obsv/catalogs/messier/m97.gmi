@@ -4,7 +4,7 @@ The Owl Nebula
 
 => ../../sessions/2015/2015-04-11.gmi 2015-04-11
 => ../../sessions/2015/2015-05-16.gmi 2015-05-16
-
 => ../../sessions/2022/2022-03-24.gmi 2022-03-24
+=> ../../sessions/2026/2026-06-21.gmi 2026-06-21
 
 => index.gmi Messier Objects
