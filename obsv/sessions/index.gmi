@@ -11,7 +11,7 @@
 => 2022/index.gmi 2022 (4 sessions)
 => 2023/index.gmi 2023 (3 sessions)
 2024 (0 sessions)
-=> 2025/index.gmi 2025
+=> 2025/index.gmi 2025 (1 session)
 => 2026/index.gmi 2026
 
 => ../index.gmi Astronomical Observations
