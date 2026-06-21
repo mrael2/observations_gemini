@@ -2,4 +2,4 @@
 
 ## Globular clusters
 
-=> ../../catalogs/messier/m107.gmi M107
+=> ../catalogs/messier/m107.gmi M107

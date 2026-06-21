@@ -10,7 +10,7 @@ I had to wait for the 30% moon to set to begin my observations on this very earl
 12:30 AM
 M13
 
-Stars arond the edges of the globular cluster were resolved at 85x. There is a suggestion of arms protruding from the central cloud. Prolonged observing transforms the central cloud into an area of fine granularity at 85x.
+Stars around the edges of the globular cluster were resolved at 85x. There is a suggestion of arms protruding from the central cloud. Prolonged observing transforms the central cloud into an area of fine granularity at 85x.
 
 => ../../catalogs/messier/m53.gmi M53
 12:40 AM
