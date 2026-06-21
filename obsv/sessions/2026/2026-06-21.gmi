@@ -49,11 +49,11 @@ M97
 
 Low in the sky, this was an extremely dim oval with no structure apparent. Perhaps it may be a better target when it is high in the sky, but I think more aperture suits this target more than anything else.
 
-=> ../../catalogs/ngc/7789.gmi NGC 7789
+=> ../../catalogs/ngc/ngc7789.gmi NGC 7789
 2:00 AM
 NGC 7789
 
-A magnification of 85x given a close-up view of so many wonderful stars scattered almost regularly amid many dark lanes. I used the Pentax 40mm eyepiece on this target, but Caroline's Rose (as it's known) at 25x is less interesting when zoomed out that much. Yet at 25x it does have the granular appearance of a small cluster. A magnification around 40-60x might be very interesting if I ever try a different eyepiece.
+A magnification of 85x gives a close-up view of so many wonderful stars scattered almost regularly amid many dark lanes. I used the Pentax 40mm eyepiece on this target, but Caroline's Rose (as it's known) at 25x is less interesting when zoomed out that much. Yet at 25x it does have the granular appearance of a small cluster. A magnification around 40-60x might be very interesting if I ever try a different eyepiece.
 
 => ../../catalogs/caldwell/c13.gmi C13/NGC 457
 2:15 AM
