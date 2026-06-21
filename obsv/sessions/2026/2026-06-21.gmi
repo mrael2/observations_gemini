@@ -1,0 +1,94 @@
+Date: 2026-06-21
+Seeing: I
+Transparency: 7
+Telescope: Stellarvue SVX127D
+eyepieces: Pentax 12mm (85x), Pentax 40mm (25x)
+
+I had to wait for the 30% moon to set to begin my observations on this very early morning. Unless otherwise stated, all observations tonight were at 85x using the Pentax 12mm.
+
+=> ../../catalogs/messier/m13.gmi M13
+12:30 AM
+M13
+
+Stars arond the edges of the globular cluster were resolved at 85x. There is a suggestion of arms protruding from the central cloud. Prolonged observing transforms the central cloud into an area of fine granularity at 85x.
+
+=> ../../catalogs/messier/m53.gmi M53
+12:40 AM
+M53
+
+This globular cluster is medium to small in size. No stars were resolved at all at 85x. The center is bright with a hazy halo surrounding the center.
+
+=> ../../catalogs/messier/m59.gmi M59
+=> ../../catalogs/messier/m60.gmi M60
+12:50 AM
+M59/M60
+
+M59 was brighter than M60. Both were visible in the same field of view at 85x. M59 has a pinpoint, bright center. Both were small and very dim with barely perceptible nebulosity around the cores.
+
+=> ../../catalogs/messier/m51.gmi M51
+1:00 AM
+M51
+
+This galaxy is medium size in the eyepiece at 85x. The nebulosity is dim, but the center is a bright pinpoint. The companion NGC galaxy is visible with a bright pinpoint center also. Both were dim in general.
+
+=> ../../catalogs/messier/m107.gmi M107
+1:10 AM
+M107
+
+This globular cluster is small with no stars resolved in the circular cloud. The four stars on the outskirts which give this GC its nickname (Crucifix Cluster) are clearly visible, albeit upside down compared to my last observation in a reflector.
+
+=> ../../catalogs/messier/m4.gmi M4
+1:20 AM
+M4
+
+Very nice globular cluster with many stars resolved, several forming lines or lanes. Dark lanes also are present within the GC, giving it a unique structure. This was nicer than M13 tonight.
+
+=> ../../catalogs/messier/m97.gmi M97
+1:25 AM
+M97
+
+Low in the sky, this was an extremely dim oval with no structure apparent. Perhaps it may be a better target when it is high in the sky, but I think more aperture suits this target more than anything else.
+
+=> ../../catalogs/ngc/7789.gmi NGC 7789
+2:00 AM
+NGC 7789
+
+A magnification of 85x given a close-up view of so many wonderful stars scattered almost regularly amid many dark lanes. I used the Pentax 40mm eyepiece on this target, but Caroline's Rose (as it's known) at 25x is less interesting when zoomed out that much. Yet at 25x it does have the granular appearance of a small cluster. A magnification around 40-60x might be very interesting if I ever try a different eyepiece.
+
+=> ../../catalogs/caldwell/c13.gmi C13/NGC 457
+2:15 AM
+Caldwell 13
+NGC 457
+
+This open cluster is perfectly framed at 85x, and the owl shape is clear with very sharp pinpoint stars. It's a testament to the magnificence of this refractor telescope from Stellarvue. The brightest "eye" star has very prominent nebulosity surrounding it, and the other "eye" also has apparent nebulosity as well.
+
+=> ../../catalogs/messier/m52.gmi M52
+2:25 AM
+M52
+
+Two or three dozen prominent stars are scattered about haphazardly i nthis sparse, asymmetric, medium-sized open cluster. Nice for its size.
+
+=> ../../catalogs/messier/m103.gmi M103
+2:35 AM
+M103
+
+Almost triangular in shape, this asymmetric open cluster has only about a dozen prominent stars to attract one's attention. Nevertheless, it is a small and lovely gem at 85x.
+
+=> ../../catalogs/messier/m8.gmi M8
+2:50 AM
+M8
+
+The Lagoon Nebula is always a wonderful sight. Several bright stars concentrated just outside the nebula offer a compositional balance in the field of view. A prominent dark lane divides the main nebulosity in two while a separate, dimmer nebulosity stands away from the main elements.
+
+=> ../../catalogs/messier/m20.gmi M20
+3:10 AM
+M20
+
+Dimmer and smaller than I remember, the main nebulosity has a tight pair of stars at its center. A dark lane seems to provide separation for another very dim nebulosity, but I couldn't distinguish a third nebulosity that the Trifid name would suggest.
+
+It was very cold as I concluded my observing session. I left the telescope out overnight, but the windless and clear night didn't cause any damage.
+
+## Navigation
+
+=> index.gmi 2026 Observations
+=> ../../ Astronomical Observations
